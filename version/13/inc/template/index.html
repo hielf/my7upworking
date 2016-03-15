@@ -1,0 +1,105 @@
+
+<header id="page-header" data-bind="css.visible: dataManager.showHeader()">
+	<div class="social">
+		<div class="logo" data-bind="tap: controller.closePopup.bind(controller)"></div>
+		<div class="social-icon twitter" data-share data-share-type="twitter" data-bind="attr: { 'data-share-url': dataManager.sharePageUrl(), 'data-share-text': '#feelsgoodtobeyou' }"><span class="icon-twitter"></span></div>
+		<div class="social-icon facebook" data-share data-share-type="facebook" data-bind="attr: { 'data-share-url': dataManager.sharePageUrl() }"><span class="icon-facebook"></span></div>
+		<div class="social-icon googleplus" data-share data-share-type="plus" data-bind="attr: { 'data-share-url': dataManager.sharePageUrl() }"><span class="icon-googleplus"></span></div>
+		<div class="social-icon pinterest" data-share data-share-type="pinterest" data-bind="attr: { 'data-share-url': dataManager.sharePageUrl(), 'data-share-media': dataManager.shareMediaUrl(), 'data-share-text': '#feelsgoodtobeyou' }"><span class="icon-pinterest"></span></div>
+	</div>
+	<div class="circle"></div>
+</header>
+
+<div data-gaia-container></div>
+
+<div class="overlay-loader" data-bind="css.visible: dataManager.showLoader">
+	<div class="loader">
+		<img src="inc/image/canvas-loader.gif" alt="loading" />
+	</div>
+</div>
+<div class="overlay" data-bind="tap: controller.toggleMenu.bind(controller)"></div>
+<div class="overlay-filter" data-bind="tap: controller.toggleFilter.bind(controller)"></div>
+<div class="overlay-language" data-bind="tap: controller.toggleLanguageMenu.bind(controller)"></div>
+
+<footer id="page-footer" data-bind="css.show: dataManager.showFooter()">
+	<div class="left">
+		<span class="title" data-bind="
+			localizedText: {id: 'defaults.filter', html: false},
+			tap: controller.toggleFilter.bind(controller)"></span>
+		<div class="filters-wrap">
+			<ul class="filters" data-bind="foreach: filters">
+				<li data-bind="css: link">
+					<a href="#" data-bind="
+					tap: function(){
+						$root.changeCategory(link);
+						$root.controller.toggleFilter.bind($root.controller);
+					},
+					css: { 'active': active }">
+						<div class="filter-wrap-icon">
+							<span class="filter-icon" data-bind="css: 'cat-' + id"></span>
+						</div>
+						<span class="text" data-bind="localizedText: {id: 'category.' + $index() + '.name', html: false}"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<ul class="menu">
+		<li class="social">
+			<a href="" data-bind="visible: (socialFacebook() !== ''), attr: { href: socialFacebook }"><span class="icon-facebook2"></span></a>
+			<a href="" data-bind="visible: (socialTwitter() !== ''), attr: { href: socialTwitter }"><span class="icon-twitter2"></span></a>
+			<a href="" data-bind="visible: (socialYoutube() !== ''), attr: { href: socialYoutube }"><span class="icon-youtube"></span></a>
+		</li>
+		<li>
+			<a data-bind="
+			localizedText: {id: 'navigation.contact', html: false},
+			tap: controller.gotoContact.bind(controller)"></a>
+		</li>
+		<li>
+			<a data-bind="
+			localizedText: {id: 'navigation.legal', html: false},
+			tap: controller.gotoTerms.bind(controller)"></a>
+		</li>
+		<!-- ko if: locales().length > 1 -->
+		<li class="language">
+			<a data-bind="
+				text: currentLocale,
+				tap: controller.toggleLanguageMenu.bind(controller)"></a>
+		</li>
+		<!-- /ko -->
+	</ul>
+	<div class="social">
+		<a href="" target="_blank" data-bind="visible: (socialFacebook() !== ''), attr: { href: socialFacebook }"><span class="icon-facebook2"></span></a>
+		<a href="" target="_blank" data-bind="visible: (socialTwitter() !== ''), attr: { href: socialTwitter }"><span class="icon-twitter2"></span></a>
+		<a href="" target="_blank" data-bind="visible: (socialYoutube() !== ''), attr: { href: socialYoutube }"><span class="icon-youtube"></span></a>
+	</div>
+	<div class="mobile-menu" data-bind="tap: controller.toggleMenu.bind(controller)">
+		<div class="mobile-menu-wrap">
+			<div><span class="icon-three-bars"></span></div>
+		</div>
+	</div>
+</footer>
+
+<ul class="language-list">
+	<li class="header" data-bind="localizedText: {id: 'locales.language_select', html: false}"></li>
+
+	<!-- ko foreach: locales -->
+	<li>
+		<a data-bind="
+				tap: function() { $root.changeLocale(locale) },
+				text: text,
+				css.active: active"></a></li>
+	<!-- /ko -->
+</ul>
+
+<div class="turn-device-overlay">
+	<img src="inc/image/icons/rotate-screen.png" alt="rotate screen to portrait" />
+</div>
+<!-- ko if: configManager.getProperty('authorized') -->
+<!-- ko component : {
+	component : 'cms-module',
+	options : {
+		'currentBranch': currentBranch,
+	}
+	} --><!-- /ko -->
+<!-- /ko -->

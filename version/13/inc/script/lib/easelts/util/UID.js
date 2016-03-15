@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(){}return a.get=function(){return a._nextID++},a._nextID=0,a}();return c});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/util/UID.js.map

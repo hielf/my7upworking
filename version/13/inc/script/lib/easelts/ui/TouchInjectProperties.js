@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(){this.pointers={},this.multitouch=!1,this.preventDefault=!1,this.count=0}return a}();return c});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/ui/TouchInjectProperties.js.map

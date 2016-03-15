@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(){}return a.getAll=function(){return a._all||(a._all=[a.DARK_GREEN,a.LIGHT_GREEN,a.WHITE]),a._all},a.getRandom=function(){var b=a.getAll();return b[Math.floor(Math.random()*b.length)]},a.DARK_GREEN="#58bc4c",a.LIGHT_GREEN="#b2e037",a.WHITE="#ffffff",a}();return c});
+//# sourceMappingURL=../../../sourcemap/app/config/Color.js.map

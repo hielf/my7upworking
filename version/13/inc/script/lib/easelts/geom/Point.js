@@ -1,0 +1,2 @@
+define(["require","exports","./../util/NumberUtil"],function(a,b,c){var d=function(){function a(a,b){this.x=a,this.y=b}return a.prototype.copy=function(b){return new a(b.x,b.y)},a.prototype.toNumber=function(){return c.pair(this.x,this.y)},a.prototype.fromNumber=function(a){var b=c.depair(a);this.x=b[0],this.y=b[1]},a.prototype.clone=function(){return new a(this.x,this.y)},a.prototype.toString=function(){return"[Point (x="+this.x+" y="+this.y+")]"},a}();return d});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/geom/Point.js.map

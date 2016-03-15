@@ -1,0 +1,2 @@
+var __extends=this.__extends||function(a,b){function c(){this.constructor=a}for(var d in b)b.hasOwnProperty(d)&&(a[d]=b[d]);c.prototype=b.prototype,a.prototype=new c};define(["require","exports","./Event"],function(a,b,c){var d=function(a){function b(b,c,d,e,f,g,h){void 0===g&&(g=null),void 0===h&&(h=null),a.call(this,b,g,h),this.delta=c,this.paused=d,this.time=e,this.runTime=f}return __extends(b,a),b}(c);return d});
+//# sourceMappingURL=../../../../sourcemap/lib/createts/event/TimeEvent.js.map

@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(a,b){this.width=a,this.height=b}return a.prototype.copy=function(b){return new a(b.width,b.height)},a.prototype.clone=function(){return new a(this.width,this.height)},a.prototype.toString=function(){return"[Size (x="+this.width+" y="+this.height+")]"},a}();return c});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/geom/Size.js.map

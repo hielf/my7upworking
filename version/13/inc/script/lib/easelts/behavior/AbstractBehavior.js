@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(){this.owner=null}return a.prototype.initialize=function(a){if(this.owner)throw new Error("behavior already has a owner");this.owner=a},a.prototype.destruct=function(){this.owner=null},a}();return c});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/behavior/AbstractBehavior.js.map

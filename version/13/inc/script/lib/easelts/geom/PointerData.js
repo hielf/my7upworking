@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(a,b){this.inBounds=!1,this.target=null,this.posEvtObj=null,this.rawX=0,this.rawY=0,this.x=a,this.y=b}return a}();return c});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/geom/PointerData.js.map

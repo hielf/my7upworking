@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c;return function(a){a[a.UNKOWN=0]="UNKOWN",a[a.PROCENT=1]="PROCENT",a[a.STATIC=2]="STATIC",a[a.CALC=3]="CALC"}(c||(c={})),c});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/enum/CalculationType.js.map

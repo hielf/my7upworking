@@ -1,0 +1,79 @@
+
+<div class="buttons">
+	<div class="close-btn" data-bind="tap: controller.closePopup.bind(controller)">
+		<span class="icon-cross"></span>
+	</div>
+	<div class="back-to-top" data-bind="tap: controller.scrollToTop.bind(controller)">
+		<div class="back-to-top-icon">
+			<span class="icon-arrow-up"></span>
+		</div>
+		<span class="text" data-bind="localizedText: {id: 'defaults.article.back_to_top', html: false}"></span>
+	</div>
+	<div class="social-share">
+		<span class="share-icon" data-bind="tap: controller.toggleShare.bind(controller)"><img src="inc/image/icons/social-share.png" alt="social share"/></span>
+		<ul>
+			<li class="social-icon twitter" data-share data-share-type="twitter" data-bind="attr: { 'data-share-url': window.location.href, 'data-share-text': '#feelsgoodtobeyou' }"><span class="icon-twitter"></span></li>
+			<li class="social-icon facebook" data-share data-share-type="facebook" data-bind="attr: { 'data-share-url': window.location.href }"><span class="icon-facebook"></span></li>
+			<li class="social-icon googleplus" data-share data-share-type="plus" data-bind="attr: { 'data-share-url': window.location.href }"><span class="icon-googleplus"></span></li>
+		</ul>
+	</div>
+</div>
+
+<div class="content-container">
+	<!-- ko if: dataManager.showPrevButton -->
+	<div class="prev-content">
+		<!-- ko foreach: prevComponents -->
+		<div class="content-divider">
+			<!-- ko component : {
+				component : $data.componentName,
+				options : {
+					'articleData': $data,
+					'allowInteraction': false
+				}
+				} --><!-- /ko -->
+		</div>
+		<!-- /ko -->
+	</div>
+	<!-- /ko -->
+
+	<div class="current-content">
+		<!-- ko foreach: { data: components, afterRender: function(){ afterRenderCurrentContent() } } -->
+		<div class="content-divider" data-bind="attr: { 'data-test': $data.componentName }">
+			<!-- ko component : {
+				component : $data.componentName,
+				options : {
+					controller: $root.controller,
+					'articleData': $data,
+					'allowInteraction': true
+				}
+				} --><!-- /ko -->
+		</div>
+		<!-- /ko -->
+	</div>
+
+	<!-- ko if: dataManager.showNextButton -->
+	<div class="next-content">
+		<!-- ko foreach: { data: nextComponents, afterRender: function(){ afterRenderNextContent() } } -->
+		<div class="content-divider">
+			<!-- ko component : {
+				component : $data.componentName,
+				options : {
+					'articleData': $data,
+					'allowInteraction': false
+				}
+				} --><!-- /ko -->
+		</div>
+		<!-- /ko -->
+	</div>
+	<!-- /ko -->
+</div>
+
+<div class="indicator" id="component-indicator" data-bind="foreach: indicatorBullets">
+	<div class="item" data-bind="css.active: active, tap: function(){ $root.scrollToComponent($index); }">
+		<div class="bullet-wrap">
+			<div class="bullet">
+				<span></span>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c;return function(a){a[a.NORMAL=0]="NORMAL",a[a.LOW=1]="LOW"}(c||(c={})),window.QualityType=c,c});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/enum/QualityType.js.map

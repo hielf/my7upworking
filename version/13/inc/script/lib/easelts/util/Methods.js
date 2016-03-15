@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){function c(){return document.createElement("canvas")}function d(a,b,c){try{return a.apply(b,c)}catch(d){var e={};return e.value=d,e}}b.createCanvas=c,b.tryCatch=d});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/util/Methods.js.map

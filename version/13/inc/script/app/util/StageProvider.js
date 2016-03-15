@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(){}return a.setStage=function(b){a._stage=b},a.getStage=function(){if(!a._stage)throw new Error("Stage has not been set yet.");return a._stage},a}();return c});
+//# sourceMappingURL=../../../sourcemap/app/util/StageProvider.js.map

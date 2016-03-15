@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(a,b){this._next=null,this.stayInList=!0,this._signal=a,this._listener=b}return a.prototype.once=function(){return this.stayInList=!1,this},a.prototype.dispose=function(){null!=this._signal&&(this._signal.disconnect(this),this._signal=null)},a}();return c});
+//# sourceMappingURL=../../../../sourcemap/lib/createts/event/SignalConnection.js.map

@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(){this.minVy=3,this.maxVy=5,this.vxRange=.5,this.vxExpansion=1,this.vyExpansion=1}return a}();return c});
+//# sourceMappingURL=../../../../../../../sourcemap/app/page/home-canvas/component/bubble/config/BubbleConfig.js.map

@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(){}return a.HTML="html",a.CANVAS="canvas",a}();return c});
+//# sourceMappingURL=../../../../sourcemap/app/data/enum/HomePageType.js.map

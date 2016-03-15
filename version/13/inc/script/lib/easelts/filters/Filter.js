@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(){}return a.prototype.getBounds=function(){return null},a.prototype.applyFilter=function(a,b,c,d,e,f,g,h){return!1},a.prototype.toString=function(){return"[Filter]"},a.prototype.clone=function(){return new a},a}();return c});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/filters/Filter.js.map

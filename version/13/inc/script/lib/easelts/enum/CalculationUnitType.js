@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c;return function(a){a[a.ADDITION=0]="ADDITION",a[a.SUBSTRACTION=1]="SUBSTRACTION",a[a.MULTIPLICATION=2]="MULTIPLICATION",a[a.DIVISION=3]="DIVISION"}(c||(c={})),c});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/enum/CalculationUnitType.js.map

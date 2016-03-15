@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(){}return a.pair=function(a,b){var c=a<<16&4294901760|65535&b;if(Number.MAX_VALUE<c)throw"pair created greater than allowed max uint value";return c},a.depair=function(a){return[a>>16&65535,65535&a]},a}();return c});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/util/NumberUtil.js.map

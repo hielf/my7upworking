@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c=function(){function a(){}return a.getAll=function(){return[a.BENTON_SANS_BOOK,a.BENTON_SANS_CONDENSED_BLACK,a.BENTON_SANS_CONDENSED_BOLD,a.DIN_MEDIUM]},a.BENTON_SANS_BOOK="bentonsansbook",a.BENTON_SANS_CONDENSED_BLACK="bentonsanscondblack",a.BENTON_SANS_CONDENSED_BOLD="bentonsanscondbold",a.DIN_MEDIUM="din-mediumdin-medium",a}();return c});
+//# sourceMappingURL=../../../../sourcemap/app/data/enum/Font.js.map

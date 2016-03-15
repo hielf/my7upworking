@@ -1,0 +1,2 @@
+var __extends=this.__extends||function(a,b){function c(){this.constructor=a}for(var d in b)b.hasOwnProperty(d)&&(a[d]=b[d]);c.prototype=b.prototype,a.prototype=new c};define(["require","exports","./Size"],function(a,b,c){var d=function(a){function b(b,c,d,e,f,g){void 0===b&&(b=0),void 0===c&&(c=0),void 0===d&&(d=0),void 0===e&&(e=0),void 0===f&&(f=0),void 0===g&&(g=0),a.call(this,f,g),this.x0=b,this.y0=c,this.x1=d,this.y1=e,this.width=f,this.height=g}return __extends(b,a),b}(c);return d});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/geom/Bounds.js.map

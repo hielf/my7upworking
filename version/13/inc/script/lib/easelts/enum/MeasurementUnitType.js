@@ -1,0 +1,2 @@
+define(["require","exports"],function(a,b){var c;return function(a){a[a.PROCENT=0]="PROCENT",a[a.PIXEL=1]="PIXEL",a[a.POINT=2]="POINT",a[a.INCH=3]="INCH",a[a.CENTIMETER=4]="CENTIMETER",a[a.MILLIMETER=5]="MILLIMETER",a[a.VIEWPORT_WIDTH=6]="VIEWPORT_WIDTH",a[a.VIEWPORT_HEIGHT=7]="VIEWPORT_HEIGHT"}(c||(c={})),c});
+//# sourceMappingURL=../../../../sourcemap/lib/easelts/enum/MeasurementUnitType.js.map
