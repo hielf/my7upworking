@@ -1475,11 +1475,11 @@ function(a, b) {
             b = 0),
             b = b || P,
             (d = ea.exec(a)) ? [b.createElement(d[1])] : (d = $.buildFragment([a], b, c ? null  : []),
-            $.merge([], (d.cacheable ? $.clone(d.fragment) : d.fragment).childNodes))) : null 
+            $.merge([], (d.cacheable ? $.clone(d.fragment) : d.fragment).childNodes))) : null
         },
         parseJSON: function(b) {
             return b && "string" == typeof b ? (b = $.trim(b),
-            a.JSON && a.JSON.parse ? a.JSON.parse(b) : fa.test(b.replace(ha, "@").replace(ia, "]").replace(ga, "")) ? new Function("return " + b)() : void $.error("Invalid JSON: " + b)) : null 
+            a.JSON && a.JSON.parse ? a.JSON.parse(b) : fa.test(b.replace(ha, "@").replace(ia, "]").replace(ga, "")) ? new Function("return " + b)() : void $.error("Invalid JSON: " + b)) : null
         },
         parseXML: function(c) {
             var d, e;
@@ -1767,7 +1767,7 @@ function(a, b) {
                              : c[f])
                         }
                         ),
-                        a = null 
+                        a = null
                     }
                     ).promise()
                 },
@@ -2302,7 +2302,7 @@ function(a, b) {
             },
             value: {
                 get: function(a, b) {
-                    return ra && $.nodeName(a, "button") ? ra.get(a, b) : b in a ? a.value : null 
+                    return ra && $.nodeName(a, "button") ? ra.get(a, b) : b in a ? a.value : null
                 },
                 set: function(a, b, c) {
                     return ra && $.nodeName(a, "button") ? ra.set(a, b, c) : void (a.value = b)
@@ -2409,7 +2409,7 @@ function(a, b) {
             var b = a.parentNode;
             return b && (b.selectedIndex,
             b.parentNode && b.parentNode.selectedIndex),
-            null 
+            null
         }
     })),
     $.support.enctype || ($.propFix.enctype = "encoding"),
@@ -2481,7 +2481,7 @@ function(a, b) {
                     n.handler.guid || (n.handler.guid = d.guid)),
                     f ? p.splice(p.delegateCount++, 0, n) : p.push(n),
                     $.event.global[l] = !0;
-                a = null 
+                a = null
             }
         },
         global: {},
@@ -3211,7 +3211,7 @@ function(a, b) {
             } catch (c) {
                 return !1
             } finally {
-                b = null 
+                b = null
             }
         }
         , ja = ia(function(a) {
@@ -3809,7 +3809,7 @@ function(a, b) {
     $.each({
         parent: function(a) {
             var b = a.parentNode;
-            return b && 11 !== b.nodeType ? b : null 
+            return b && 11 !== b.nodeType ? b : null
         },
         parents: function(a) {
             return $.dir(a, "parentNode")
@@ -4636,7 +4636,7 @@ function(a, b) {
                     return this
                 },
                 getAllResponseHeaders: function() {
-                    return 2 === u ? f : null 
+                    return 2 === u ? f : null
                 },
                 getResponseHeader: function(a) {
                     var c;
@@ -5088,7 +5088,7 @@ function(a, b) {
     $.fx.interval = 13,
     $.fx.stop = function() {
         clearInterval(Wb),
-        Wb = null 
+        Wb = null
     }
     ,
     $.fx.speeds = {
@@ -6050,7 +6050,7 @@ function(a, b, c, d) {
                 return b;
             b = b.parentNode
         }
-        return null 
+        return null
     }
     function i() {
         L = !1
@@ -6607,7 +6607,7 @@ function() {
                         for (var d = 0, e = a.length; e > d; d++)
                             if (b.call(c, a[d]))
                                 return a[d];
-                        return null 
+                        return null
                     },
                     arrayRemoveItem: function(a, b) {
                         var c = m.utils.arrayIndexOf(a, b);
@@ -6869,7 +6869,7 @@ function() {
                         return e
                     },
                     parseJson: function(a) {
-                        return "string" == typeof a && (a = m.utils.stringTrim(a)) ? g && g.parse ? g.parse(a) : new Function("return " + a)() : null 
+                        return "string" == typeof a && (a = m.utils.stringTrim(a)) ? g && g.parse ? g.parse(a) : new Function("return " + a)() : null
                     },
                     stringifyJson: function(a, b, c) {
                         if (!g || !g.stringify)
@@ -7153,7 +7153,7 @@ function() {
                     },
                     parseMemoText: function(a) {
                         var b = a.match(/^\[ko_memo\:(.*?)\]$/);
-                        return b ? b[1] : null 
+                        return b ? b[1] : null
                     }
                 }
             }
@@ -7463,7 +7463,7 @@ function() {
                 }
                 if (!a.cacheDiffForKnownOperation) {
                     var d = !1
-                      , e = null 
+                      , e = null
                       , f = 0
                       , g = a.subscribe;
                     a.subscribe = a.subscribe = function(a, c, d) {
@@ -7585,7 +7585,7 @@ function() {
                 "function" != typeof r)
                     throw new Error("Pass a function that returns the value of the ko.computed");
                 var s = e.write
-                  , t = e.disposeWhenNodeIsRemoved || e.disposeWhenNodeIsRemoved || null 
+                  , t = e.disposeWhenNodeIsRemoved || e.disposeWhenNodeIsRemoved || null
                   , u = e.disposeWhen || e.disposeWhen
                   , v = u
                   , w = g
@@ -7892,11 +7892,11 @@ function() {
                     }
                     if (!d)
                         throw new Error("Cannot find closing comment tag to match: " + c.nodeValue);
-                    return null 
+                    return null
                 }
                 function e(a, b) {
                     var d = c(a, b);
-                    return d ? d.length > 0 ? d[d.length - 1].nextSibling : a.nextSibling : null 
+                    return d ? d.length > 0 ? d[d.length - 1].nextSibling : a.nextSibling : null
                 }
                 function f(c) {
                     var d = c.firstChild
@@ -7955,7 +7955,7 @@ function() {
                     hasBindingValue: a,
                     virtualNodeBindingValue: function(a) {
                         var b = (g ? a.text : a.nodeValue).match(h);
-                        return b ? b[1] : null 
+                        return b ? b[1] : null
                     },
                     normaliseVirtualElementDomStructure: function(a) {
                         if (j[m.utils.tagNameLower(a)]) {
@@ -8008,13 +8008,13 @@ function() {
                     },
                     getBindings: function(a, b) {
                         var c = this.getBindingsString(a, b);
-                        return c ? this.parseBindingsString(c, b, a) : null 
+                        return c ? this.parseBindingsString(c, b, a) : null
                     },
                     getBindingAccessors: function(a, b) {
                         var c = this.getBindingsString(a, b);
                         return c ? this.parseBindingsString(c, b, a, {
                             valueAccessors: !0
-                        }) : null 
+                        }) : null
                     },
                     getBindingsString: function(a, b) {
                         switch (a.nodeType) {
@@ -8023,7 +8023,7 @@ function() {
                         case 8:
                             return m.virtualElements.virtualNodeBindingValue(a);
                         default:
-                            return null 
+                            return null
                         }
                     },
                     parseBindingsString: function(b, c, d, e) {
@@ -8912,7 +8912,7 @@ function() {
                     }
                 }
                 function d(a) {
-                    return a.nodeType ? a : a.length > 0 ? a[0] : null 
+                    return a.nodeType ? a : a.length > 0 ? a[0] : null
                 }
                 function e(a, b, e, f, h) {
                     h = h || {};
@@ -9218,7 +9218,7 @@ function() {
             m.nativeTemplateEngine.prototype.constructor = m.nativeTemplateEngine,
             m.nativeTemplateEngine.prototype.renderTemplateSource = function(a, b, c) {
                 var d = !(m.utils.ieVersion < 9)
-                  , e = d ? a.nodes : null 
+                  , e = d ? a.nodes : null
                   , f = e ? a.nodes() : null ;
                 if (f)
                     return m.utils.makeArray(f.cloneNode(!0).childNodes);
@@ -10360,10 +10360,10 @@ define("lib/gaia/core/GaiaHQ", ["require", "exports", "lib/gaia/api/Gaia", "lib/
                 e.completed = !c,
                 e.onlyOnce = d,
                 this.addEventListener(a, e.target),
-                c ? e.completeCallback.bind(e) : null 
+                c ? e.completeCallback.bind(e) : null
             }
             return console.log("GaiaHQ Error! addListener: " + a + " is not a valid event"),
-            null 
+            null
         }
         ,
         b.prototype.removeListener = function(a, b) {
@@ -11050,7 +11050,7 @@ define("lib/gaia/router/GaiaRoute", ["require", "exports", "lib/gaia/router/Gaia
                 if (c.name == a)
                     return c
             }
-            return null 
+            return null
         }
         ,
         a.prototype.getAction = function() {
@@ -11165,7 +11165,7 @@ define("lib/gaia/router/GaiaRouteGroup", ["require", "exports", "lib/gaia/router
             for (var b = 0; b < this._routes.length; b++)
                 if (this._routes[b].getRoute() == a)
                     return this._routes[b];
-            return null 
+            return null
         }
         ,
         a
@@ -11195,7 +11195,7 @@ define("lib/gaia/router/GaiaRouteGroup", ["require", "exports", "lib/gaia/router
         }
         return a.prototype.execute = function(a, b) {
             return void 0 === b && (b = !1),
-            null 
+            null
         }
         ,
         a
@@ -11276,7 +11276,7 @@ define("lib/gaia/router/GaiaRouter", ["require", "exports", "lib/gaia/router/Gai
             void 0 === c && (c = !1);
             var d;
             this._config.isQueryStringIncluded() || -1 == (d = a.indexOf("?")) || (a = a.substr(0, d));
-            var f = this._group.resolvePage(a, b, c); 
+            var f = this._group.resolvePage(a, b, c);
 
             return f.length > 0 ? f : this._notFound ? new e([{
                 branch: this._notFound,
@@ -11290,7 +11290,7 @@ define("lib/gaia/router/GaiaRouter", ["require", "exports", "lib/gaia/router/Gai
         a.prototype.assemble = function(a, b) {
             void 0 === b && (b = {});
             var c = this._group.getRoute(a, b);
-            return c ? c.assemble(b) : null 
+            return c ? c.assemble(b) : null
         }
         ,
         a.prototype.getGroup = function() {
@@ -11318,7 +11318,7 @@ define("lib/gaia/core/BranchIterator", ["require", "exports", "lib/gaia/core/Sit
         }
         ,
         a.next = function() {
-            return ++a.index < a.items.length ? a.items[a.index] : null 
+            return ++a.index < a.items.length ? a.items[a.index] : null
         }
         ,
         a.addPage = function(b) {
@@ -11807,11 +11807,11 @@ define("lib/gaia/api/Gaia", ["require", "exports", "lib/gaia/core/GaiaHQ", "lib/
         a.prototype.getParam = function(a) {
             void 0 === a && (a = null );
             var b = this.getDeeplink();
-            return null  == b || null  == a ? b : b.hasOwnProperty(a) ? b[a] : null 
+            return null  == b || null  == a ? b : b.hasOwnProperty(a) ? b[a] : null
         }
         ,
         a.prototype.getQueryParam = function(a) {
-            return decodeURIComponent((new RegExp("[?|&]" + a + "=([^&;]+?)(&|#|;|$)").exec(location.search) || [, ""])[1].replace(/\+/g, "%20")) || null 
+            return decodeURIComponent((new RegExp("[?|&]" + a + "=([^&;]+?)(&|#|;|$)").exec(location.search) || [, ""])[1].replace(/\+/g, "%20")) || null
         }
         ,
         a.prototype.getValidBranch = function(a) {
@@ -11823,7 +11823,7 @@ define("lib/gaia/api/Gaia", ["require", "exports", "lib/gaia/core/GaiaHQ", "lib/
         }
         ,
         a.prototype.getDepthContainer = function(a) {
-            return null 
+            return null
         }
         ,
         a.prototype.back = function() {
@@ -12259,7 +12259,7 @@ define("lib/temple/control/sequence/Sequence", ["require", "exports", "lib/templ
                     b.removeEventListener(e.DONE, this.handleDone),
                     b.removeEventListener(e.ERROR, this.handleError),
                     b.destruct();
-                this._tasks = null 
+                this._tasks = null
             }
             a.prototype.destruct.call(this)
         }
@@ -12330,7 +12330,7 @@ define("lib/temple/config/ConfigManager", ["require", "exports"], function(a, b)
         }
         ,
         a.prototype.getVar = function(a) {
-            return this.hasVar(a) ? this._parsedConfig.vars[a] : null 
+            return this.hasVar(a) ? this._parsedConfig.vars[a] : null
         }
         ,
         a.prototype.setVar = function(a, b) {
@@ -12344,7 +12344,7 @@ define("lib/temple/config/ConfigManager", ["require", "exports"], function(a, b)
         }
         ,
         a.prototype.getProperty = function(a) {
-            return this.hasProperty(a) ? this._parsedConfig.properties[a] : null 
+            return this.hasProperty(a) ? this._parsedConfig.properties[a] : null
         }
         ,
         a.prototype.getProperties = function() {
@@ -12678,7 +12678,7 @@ define("lib/temple/locale/element/AbstractElementManager", ["require", "exports"
             for (var b = 0; b < this._elements.length; b++)
                 if (this._elements[b].element == a)
                     return this._elements[b];
-            return null 
+            return null
         }
         ,
         a
@@ -13281,7 +13281,7 @@ define("lib/temple/locale/provider/core/AbstractLocaleProvider", ["require", "ex
         }
         ,
         b.prototype.getLocales = function() {
-            return null 
+            return null
         }
         ,
         b.prototype.destruct = function() {
@@ -13405,7 +13405,7 @@ define("lib/temple/locale/provider/core/AbstractExternalLocaleProvider", ["requi
                 if (e.locale == a && e.name == b && e.url == c)
                     return e
             }
-            return null 
+            return null
         }
         ,
         b.prototype.parseLocaleFile = function(a, b, c) {
@@ -13575,7 +13575,7 @@ define("app/data/model/ArticleModel", ["require", "exports", "lib/temple/events/
                 if (this._categories[b].link == a)
                     return this._categories[b];
             return console.error("Category with link " + a + " was not found"),
-            null 
+            null
         }
         ,
         b.prototype.getArticle = function(a) {
@@ -13781,6 +13781,7 @@ define("app/net/service/ApplicationService", ["require", "exports", "app/net/ser
         ,
         b.prototype.getArticle = function(a, b) {
             return void 0 === b && (b = null ),
+			// this.gateway.get(this.martketPrefix + "/article.json")
             this.gateway.get(this.martketPrefix + "/article/" + a+".json", {}, b)
         }
         ,
@@ -14197,7 +14198,7 @@ define("app/net/gateway/Gateway", ["require", "exports", "lib/temple/events/Even
                     new d(null );
                 delete this._cachedCalls[a.cacheKey]
             }
-            return null 
+            return null
         }
         ,
         b.prototype.post = function(a, b, c, d) {
@@ -14294,7 +14295,7 @@ define("lib/temple/utils/types/CookieUtils", ["require", "exports"], function(a,
             if (-1 == d) {
                 if (d = b.indexOf(c),
                 0 != d)
-                    return null 
+                    return null
             } else {
                 d += 2;
                 var e = document.cookie.indexOf(";", d);
@@ -14651,7 +14652,7 @@ define("app/control/SelectHomePageTask", ["require", "exports", "lib/temple/cont
                         return d
                 }
             }
-            return null 
+            return null
         }
         ,
         b
@@ -14762,7 +14763,7 @@ define("lib/temple/utils/types/ArrayUtils", ["require", "exports"], function(a, 
         }
         ,
         a.randomElement = function(a) {
-            return a.length > 0 ? a[Math.floor(Math.random() * a.length)] : null 
+            return a.length > 0 ? a[Math.floor(Math.random() * a.length)] : null
         }
         ,
         a.shuffle = function(a) {
@@ -15691,7 +15692,7 @@ define("lib/temple/utils/types/StringUtils", ["require", "exports"], function(a,
         }
         ,
         a.ucFirst = function(a) {
-            return a ? a.substr(0, 1).toUpperCase() + a.substr(1) : null 
+            return a ? a.substr(0, 1).toUpperCase() + a.substr(1) : null
         }
         ,
         a.countOf = function(b, c, d) {
@@ -16088,7 +16089,7 @@ function() {
     ,
     Number.from = function(a) {
         var b = parseFloat(a);
-        return isFinite(b) ? b : null 
+        return isFinite(b) ? b : null
     }
     ,
     String.from = function(a) {
@@ -16356,10 +16357,10 @@ Array.implement({
         this
     },
     getLast: function() {
-        return this.length ? this[this.length - 1] : null 
+        return this.length ? this[this.length - 1] : null
     },
     getRandom: function() {
-        return this.length ? this[Number.random(0, this.length - 1)] : null 
+        return this.length ? this[Number.random(0, this.length - 1)] : null
     },
     include: function(a) {
         return this.contains(a) || this.push(a),
@@ -16390,7 +16391,7 @@ Array.implement({
         for (var a = 0, b = this.length; b > a; a++)
             if (null  != this[a])
                 return this[a];
-        return null 
+        return null
     },
     hexToRgb: function(a) {
         if (3 != this.length)
@@ -16456,11 +16457,11 @@ String.implement({
     },
     hexToRgb: function(a) {
         var b = String(this).match(/^#?(\w{1,2})(\w{1,2})(\w{1,2})$/);
-        return b ? b.slice(1).hexToRgb(a) : null 
+        return b ? b.slice(1).hexToRgb(a) : null
     },
     rgbToHex: function(a) {
         var b = String(this).match(/\d{1,3}/g);
-        return b ? b.rgbToHex(a) : null 
+        return b ? b.rgbToHex(a) : null
     },
     substitute: function(a, b) {
         return String(this).replace(b || /\\?\{([^{}]+)\}/g, function(b, c) {
@@ -16507,7 +16508,7 @@ Function.extend({
             try {
                 return arguments[a]()
             } catch (c) {}
-        return null 
+        return null
     }
 }),
 Function.implement({
@@ -16515,11 +16516,11 @@ Function.implement({
         try {
             return this.apply(b, Array.from(a))
         } catch (c) {}
-        return null 
+        return null
     },
     bind: function(a) {
         var b = this
-          , c = arguments.length > 1 ? Array.slice(arguments, 1) : null 
+          , c = arguments.length > 1 ? Array.slice(arguments, 1) : null
           , d = function() {}
           , e = function() {
             var f = a
@@ -16601,7 +16602,7 @@ function() {
             for (var d in b)
                 if (a.call(b, d) && b[d] === c)
                     return d;
-            return null 
+            return null
         },
         contains: function(a, b) {
             return null  != Object.keyOf(a, b)
@@ -16752,7 +16753,7 @@ function() {
     if (this.attachEvent && !this.addEventListener) {
         var j = function() {
             this.detachEvent("onunload", j),
-            a.head = a.html = a.window = null 
+            a.head = a.html = a.window = null
         }
         ;
         this.attachEvent("onunload", j)
@@ -17029,7 +17030,7 @@ function() {
                     g.nativeMatchesSelector)
                         try {
                             g.nativeMatchesSelector.call(e, ":slick"),
-                            g.nativeMatchesSelector = null 
+                            g.nativeMatchesSelector = null
                         } catch (q) {}
                 }
                 try {
@@ -17046,7 +17047,7 @@ function() {
                     if (c)
                         return c.call(a);
                     var d = a.getAttributeNode(b);
-                    return d ? d.nodeValue : null 
+                    return d ? d.nodeValue : null
                 }
                  : function(a, b) {
                     var c = this.attributeGetters[b];
@@ -17619,14 +17620,14 @@ function() {
         },
         tabindex: function() {
             var a = this.getAttributeNode("tabindex");
-            return a && a.specified ? a.nodeValue : null 
+            return a && a.specified ? a.nodeValue : null
         },
         type: function() {
             return this.getAttribute("type")
         },
         maxlength: function() {
             var a = this.getAttributeNode("maxLength");
-            return a && a.specified ? a.nodeValue : null 
+            return a && a.specified ? a.nodeValue : null
         }
     };
     k.MAXLENGTH = k.maxLength = k.maxlength;
@@ -17682,7 +17683,7 @@ function() {
         return c ? function(a) {
             return c.call(this, a)
         }
-         : null 
+         : null
     }
     ,
     l.override = function(b, c) {
@@ -17889,7 +17890,7 @@ function() {
             var a = {
                 string: function(b, c, d) {
                     return b = Slick.find(d, "#" + b.replace(/(\W)/g, "\\$1")),
-                    b ? a.element(b, c) : null 
+                    b ? a.element(b, c) : null
                 },
                 element: function(a, b) {
                     if (Slick.uidOf(a),
@@ -17904,7 +17905,7 @@ function() {
                     return a
                 },
                 object: function(b, c, d) {
-                    return b.toElement ? a.element(b.toElement(d), c) : null 
+                    return b.toElement ? a.element(b.toElement(d), c) : null
                 }
             };
             return a.textnode = a.whitespace = a.window = a.document = function(a) {
@@ -17915,7 +17916,7 @@ function() {
                 if (b && b.$family && b.uniqueNumber)
                     return b;
                 var e = typeOf(b);
-                return a[e] ? a[e](b, c, d || document) : null 
+                return a[e] ? a[e](b, c, d || document) : null
             }
         }
         ()
@@ -18138,7 +18139,7 @@ function() {
                 }
             }
             var g = Slick.getAttribute(this, a);
-            return g || Slick.hasAttribute(this, a) ? g : null 
+            return g || Slick.hasAttribute(this, a) ? g : null
         },
         getProperties: function() {
             var a = Array.from(arguments);
@@ -18260,7 +18261,7 @@ function() {
             var a = o(this).getElementsByTagName("*");
             return Array.each(a, o),
             Element.dispose(this),
-            null 
+            null
         },
         empty: function() {
             return Array.from(this.childNodes).each(Element.dispose),
@@ -18318,7 +18319,7 @@ function() {
             var c = n(Slick.uidOf(this))
               , d = c[a];
             return null  != b && null  == d && (d = c[a] = b),
-            null  != d ? d : null 
+            null  != d ? d : null
         },
         store: function(a, b) {
             var c = n(Slick.uidOf(this));
@@ -18401,7 +18402,7 @@ function() {
                 g = g.firstChild;
             this.empty().adopt(g.childNodes),
             r || t.removeChild(f),
-            f = null 
+            f = null
         }
     }
     (Element.Properties.html.set));
@@ -18437,7 +18438,7 @@ function() {
             this.id = this.getAttributeNode("id").value = a
         },
         get: function() {
-            return this.id || null 
+            return this.id || null
         },
         erase: function() {
             this.id = this.getAttributeNode("id").value = ""
@@ -18950,7 +18951,7 @@ function() {
         case "null":
             return "null"
         }
-        return null 
+        return null
     }
     ,
     JSON.decode = function(string, secure) {
@@ -21535,7 +21536,7 @@ var _gsScope = "undefined" != typeof module && module.exports && "undefined" != 
             for (b = 0; d > b; b++)
                 if (c[b].time > a)
                     return c[b].name;
-            return null 
+            return null
         }
         ,
         k.getLabelBefore = function(a) {
@@ -21543,7 +21544,7 @@ var _gsScope = "undefined" != typeof module && module.exports && "undefined" != 
             for (var b = this.getLabelsArray(), c = b.length; --c > -1; )
                 if (a > b[c].time)
                     return b[c].name;
-            return null 
+            return null
         }
         ,
         k.getLabelsArray = function() {
@@ -22057,7 +22058,7 @@ var _gsScope = "undefined" != typeof module && module.exports && "undefined" != 
                 ;
             return d >= 0 ? (S = 3 === d ? "ms" : c[d],
             R = "-" + S.toLowerCase() + "-",
-            S + a) : null 
+            S + a) : null
         }
         , U = J.defaultView ? J.defaultView.getComputedStyle : function() {}
         , V = g.getStyle = function(a, b, c, d, e) {
@@ -24781,7 +24782,7 @@ var _gsScope = "undefined" != typeof module && module.exports && "undefined" != 
                 ;
             return d >= 0 ? (S = 3 === d ? "ms" : c[d],
             R = "-" + S.toLowerCase() + "-",
-            S + a) : null 
+            S + a) : null
         }
         , U = J.defaultView ? J.defaultView.getComputedStyle : function() {}
         , V = g.getStyle = function(a, b, c, d, e) {
@@ -26488,7 +26489,7 @@ define("lib/history/history", ["lib/history/history"], function() {
                 } else {
                     try {
                         var m = c[d];
-                        c[d] = null 
+                        c[d] = null
                     } catch (j) {}
                     if ("execScript" in a)
                         a.execScript("Public " + d, "VBScript");
@@ -26725,7 +26726,7 @@ define("lib/history/history", ["lib/history/history"], function() {
                         try {
                             return new Function("","return " + a)()
                         } catch (b) {
-                            return null 
+                            return null
                         }
                     },
                     stringify: function(a) {
@@ -26813,7 +26814,7 @@ define("lib/history/history", ["lib/history/history"], function() {
           , U = {}
           , V = {
             onhashchange: null ,
-            onpopstate: null 
+            onpopstate: null
         }
           , W = {
             redirect: function(b, d) {
@@ -26846,7 +26847,7 @@ define("lib/history/history", ["lib/history/history"], function() {
             },
             state: {
                 get: function() {
-                    return T[x.href] || null 
+                    return T[x.href] || null
                 }
             }
         }
@@ -27040,7 +27041,7 @@ function() {
     "use strict";
     function a() {
         this._listeners = null ,
-        this._captureListeners = null 
+        this._captureListeners = null
     }
     var b = a.prototype;
     a.initialize = function(a) {
@@ -27091,7 +27092,7 @@ function() {
     b.off = b.removeEventListener,
     b.removeAllEventListeners = function(a) {
         a ? (this._listeners && delete this._listeners[a],
-        this._captureListeners && delete this._captureListeners[a]) : this._listeners = this._captureListeners = null 
+        this._captureListeners && delete this._captureListeners[a]) : this._listeners = this._captureListeners = null
     }
     ,
     b.dispatchEvent = function(a) {
@@ -27889,7 +27890,7 @@ function() {
         this._rawResult = null ,
         this._loadedItems = null ,
         this._tagSrcAttribute = null ,
-        this._tag = null 
+        this._tag = null
     }
     var b = createjs.extend(a, createjs.EventDispatcher)
       , c = a;
@@ -27963,7 +27964,7 @@ function() {
     }
     ,
     b._createTag = function() {
-        return null 
+        return null
     }
     ,
     b._sendLoadStart = function() {
@@ -28098,7 +28099,7 @@ function() {
         this._tagSrcAttribute = c,
         this._loadedHandler = createjs.proxy(this._handleTagComplete, this),
         this._addedToDOM = !1,
-        this._startTagVisibility = null 
+        this._startTagVisibility = null
     }
     var b = createjs.extend(a, createjs.AbstractRequest);
     b.load = function() {
@@ -28250,11 +28251,11 @@ function() {
     }
     ,
     b.getAllResponseHeaders = function() {
-        return this._request.getAllResponseHeaders instanceof Function ? this._request.getAllResponseHeaders() : null 
+        return this._request.getAllResponseHeaders instanceof Function ? this._request.getAllResponseHeaders() : null
     }
     ,
     b.getResponseHeader = function(a) {
-        return this._request.getResponseHeader instanceof Function ? this._request.getResponseHeader(a) : null 
+        return this._request.getResponseHeader instanceof Function ? this._request.getResponseHeader(a) : null
     }
     ,
     b._handleProgress = function(a) {
@@ -28307,7 +28308,7 @@ function() {
         case 0:
             return new Error(a)
         }
-        return null 
+        return null
     }
     ,
     b._getResponse = function() {
@@ -28323,7 +28324,7 @@ function() {
             if (null  != this._request.responseXML)
                 return this._request.responseXML
         } catch (a) {}
-        return null 
+        return null
     }
     ,
     b._createXHR = function(a) {
@@ -28550,7 +28551,7 @@ function() {
     }
     ,
     b.loadManifest = function(a, b, d) {
-        var e = null 
+        var e = null
           , f = null ;
         if (a instanceof Array) {
             if (0 == a.length) {
@@ -28688,7 +28689,7 @@ function() {
             if (d && d.canLoadItem(a))
                 return new d(a,b)
         }
-        return null 
+        return null
     }
     ,
     b._loadNext = function() {
@@ -29113,7 +29114,7 @@ function() {
     "use strict";
     function a(a) {
         this.AbstractLoader_constructor(a, null , createjs.AbstractLoader.MANIFEST),
-        this._manifestQueue = null 
+        this._manifestQueue = null
     }
     var b = createjs.extend(a, createjs.AbstractLoader)
       , c = a;
@@ -29239,7 +29240,7 @@ function() {
     "use strict";
     function a(a) {
         this.AbstractLoader_constructor(a, null , createjs.AbstractLoader.SPRITESHEET),
-        this._manifestQueue = null 
+        this._manifestQueue = null
     }
     var b = createjs.extend(a, createjs.AbstractLoader)
       , c = a;
@@ -29505,7 +29506,7 @@ XRegExp = XRegExp || function(a) {
                 pattern: d(a, "g" + (z ? "y" : "")),
                 handler: b,
                 scope: c.scope || s,
-                trigger: c.trigger || null 
+                trigger: c.trigger || null
             }),
             c.customFlags && (B = o.replace.call(B + c.customFlags, w, ""))
         },
@@ -33166,7 +33167,7 @@ function(a, b, c) {
             width: 4,
             spacing: 1,
             heatOn: null ,
-            heatmap: null 
+            heatmap: null
         }
     };
     b.theme.dark = b.extend({}, d, {
@@ -33876,7 +33877,7 @@ function(a) {
     e.prototype._resizeHandler = function() {
         function a() {
             b._resize(),
-            b._resizeTimeout = null 
+            b._resizeTimeout = null
         }
         var b = this;
         this._resizeTimeout && clearTimeout(this._resizeTimeout),
@@ -34622,7 +34623,7 @@ function(a) {
         _getDateDatepicker: function(a, b) {
             var c = this._getInst(a);
             return c && !c.inline && this._setDateFromField(c, b),
-            c ? this._getDate(c) : null 
+            c ? this._getDate(c) : null
         },
         _doKeyDown: function(b) {
             var c, d, e, f = a.datepicker._getInst(b.target), g = !0, h = f.dpDiv.is(".ui-datepicker-rtl");
@@ -34766,7 +34767,7 @@ function(a) {
             b.yearshtml && (c = b.yearshtml,
             setTimeout(function() {
                 c === b.yearshtml && b.yearshtml && b.dpDiv.find("select.ui-datepicker-year:first").replaceWith(b.yearshtml),
-                c = b.yearshtml = null 
+                c = b.yearshtml = null
             }
             , 0))
         },
@@ -35108,7 +35109,7 @@ function(a) {
         _setDateFromField: function(a, b) {
             if (a.input.val() !== a.lastVal) {
                 var c = this._get(a, "dateFormat")
-                  , d = a.lastVal = a.input ? a.input.val() : null 
+                  , d = a.lastVal = a.input ? a.input.val() : null
                   , e = this._getDefaultDate(a)
                   , f = e
                   , g = this._getFormatConfig(a);
@@ -35173,7 +35174,7 @@ function(a) {
         },
         _daylightSavingAdjust: function(a) {
             return a ? (a.setHours(a.getHours() > 12 ? a.getHours() + 2 : 0),
-            a) : null 
+            a) : null
         },
         _setDate: function(a, b, c) {
             var d = !b
@@ -35355,7 +35356,7 @@ function(a) {
                         a.yearshtml += "<option value='" + o + "'" + (o === c ? " selected='selected'" : "") + ">" + o + "</option>";
                     a.yearshtml += "</select>",
                     t += a.yearshtml,
-                    a.yearshtml = null 
+                    a.yearshtml = null
                 }
             return t += this._get(a, "yearSuffix"),
             s && (t += (!f && q && r ? "" : "&#xa0;") + u),
@@ -35718,7 +35719,7 @@ function(a) {
             }
             f++
         }
-        return null 
+        return null
     }
     function L(a) {
         var b = null ;
@@ -36110,7 +36111,7 @@ function(a) {
             if (isNaN(a)) {
                 if (a = b.weekdaysParse(a),
                 "number" != typeof a)
-                    return null 
+                    return null
             } else
                 a = parseInt(a, 10);
         return a
@@ -43233,19 +43234,19 @@ define("lib/gaia/assets/AbstractPageController", ["require", "exports", "lib/tem
             this._components) {
                 for (; this._components.length; )
                     this._components.shift().destruct();
-                this._components = null 
+                this._components = null
             }
             if ($(this.element).remove(),
             this.element = null ,
             this._subscriptions) {
                 for (; this._subscriptions.length; )
                     this._subscriptions.shift().dispose();
-                this._subscriptions = null 
+                this._subscriptions = null
             }
             if (this._destructibles) {
                 for (; this._destructibles.length; )
                     this._destructibles.shift().destruct();
-                this._destructibles = null 
+                this._destructibles = null
             }
             a.prototype.destruct.call(this)
         }
@@ -43305,12 +43306,12 @@ define("lib/gaia/assets/AbstractPageViewModel", ["require", "exports", "lib/temp
             this._subscriptions) {
                 for (; this._subscriptions.length; )
                     this._subscriptions.shift().dispose();
-                this._subscriptions = null 
+                this._subscriptions = null
             }
             if (this._destructibles) {
                 for (; this._destructibles.length; )
                     this._destructibles.shift().destruct();
-                this._destructibles = null 
+                this._destructibles = null
             }
         }
         ,
@@ -43455,7 +43456,7 @@ define("lib/temple/utils/ShareUtils", ["require", "exports", "lib/temple/utils/t
         // a.twitterShareUrl = "https://twitter.com/intent/tweet?url={url}&text={tweet}",
         a.twitterShareUrl = "weixin.html",
         // a.plusShareUrl = "https://plusone.google.com/_/+1/confirm?hl={language}&url={url}",
-        a.linkedinShareUrl = "http://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}&summary={text}",
+        a.plusShareUrl = "http://v.t.qq.com/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url={url}",        a.linkedinShareUrl = "http://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}&summary={text}",
         a.pinterestShareUrl = "http://pinterest.com/pin/create/button/?url={url}&media={media}&description={text}",
         a
     }
