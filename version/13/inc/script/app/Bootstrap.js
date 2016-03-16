@@ -13781,7 +13781,7 @@ define("app/net/service/ApplicationService", ["require", "exports", "app/net/ser
         ,
         b.prototype.getArticle = function(a, b) {
             return void 0 === b && (b = null ),
-            this.gateway.get(this.martketPrefix + "/article/" + a, {}, b)
+            this.gateway.get(this.martketPrefix + "/article/" + a+".json", {}, b)
         }
         ,
         b.prototype.login = function(a, b, c) {
@@ -43420,7 +43420,7 @@ define("lib/temple/utils/ShareUtils", ["require", "exports", "lib/temple/utils/t
             "undefined" != typeof d && "undefined" != typeof b && window.open(c.replaceVars(a.twitterShareUrl, {
                 tweet: encodeURIComponent(d),
                 url: encodeURIComponent(b)
-            }), "sharer", "toolbar=0,status=0,width=550,height=450")
+            }), "sharer", "toolbar=0,status=0,width=575,height=370")
         }
         ,
         a.shareGooglePlus = function(b) {
@@ -43455,7 +43455,6 @@ define("lib/temple/utils/ShareUtils", ["require", "exports", "lib/temple/utils/t
         // a.twitterShareUrl = "https://twitter.com/intent/tweet?url={url}&text={tweet}",
         a.twitterShareUrl = "weixin.html",
         // a.plusShareUrl = "https://plusone.google.com/_/+1/confirm?hl={language}&url={url}",
-        a.plusShareUrl = "http://v.t.qq.com/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url={url}",
         a.linkedinShareUrl = "http://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}&summary={text}",
         a.pinterestShareUrl = "http://pinterest.com/pin/create/button/?url={url}&media={media}&description={text}",
         a
