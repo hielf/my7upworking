@@ -1,0 +1,60 @@
+{
+    "data": {
+        "categoryID": 0,
+        "slug": "originals-raul-a-weapon-of-mass-instruction-2",
+        "title": "Originals - Raul A Weapon of Mass Instruction",
+        "smallImage": "/assets/6688b7bd-97b3-4481-bb28-b38136896023.jpg",
+        "featured": false,
+        "next_article_slug": "refresh-with-7up-hombre-mcsteez-animator",
+        "previous_article_slug": "refresh-with-7up-hombre-mcsteez-animator",
+        "tracking_pixel": "https://pixel.newscred.com/px.gif?key=YXJ0aWNsZT02Yjg0ZjBjZTVlYjJjZGNmMzc2NDQ0YzQyNGFhMWY0ZiZwdWJsaXNoZXI9MTg3ODRhZGNmYmFmNDg2MDdiNWUxYzVkOTJhMmJhN2I=",
+        "nc_analytics": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- Newscred Content Analytics: eyJhcnRpY2xlX2d1aWQiOiI2Yjg0ZjBjZTVlYjJjZGNmMzc2NDQ0YzQyNGFhMWY0ZiIsImFydGljbGVfdGl0bGUiOiJPcmlnaW5hbHMgLSBSYXVsIEEgV2VhcG9uIG9mIE1hc3MgSW5zdHJ1Y3Rpb24iLCJzb3VyY2VfbmFtZSI6Ijd1cCIsInNvdXJjZV9ndWlkIjoiY2RlYzZkNzAzMTdjYTI3Mjk5ZjM1YzA5NjhiM2Q5YWUiLCJsaWNlbnNlZCI6dHJ1ZSwiY2FtcGFpZ25faWQiOiI1NDkzMDcwMGYxNjAwOTA3NGRlZWI4YjYiLCJjYW1wYWlnbl90aXRsZSI6IjdVUCBHbG9iYWwiLCJhY2NvdW50X2lkIjoiNTQ5MTk5Mjc0MWJkNDkzZjgyOWM0MGQ4In0= -->\n\n\n\n\n<img src=\"https://pixel.newscred.com/px.gif?key=YXJ0aWNsZT02Yjg0ZjBjZTVlYjJjZGNmMzc2NDQ0YzQyNGFhMWY0ZiZwdWJsaXNoZXI9MTg3ODRhZGNmYmFmNDg2MDdiNWUxYzVkOTJhMmJhN2I=\" alt=\"\" height=\"1\" width=\"1\" class=\"nc_pixel\"/>",
+        "components": [
+            {
+                "componentName": "intro",
+                "title": "RAUL A WEAPON OF MASS INSTRUCTION",
+                "introCopy": "<p>RAUL IS ONE OF THOSE CRAZY, GREAT PEOPLE NEEDED IN SOCIETY.</p>",
+                "headerImage": "/assets/c5189b68-68e6-4ce1-9e4e-934dab5103df.jpg",
+                "videoID": "kwMc0pHkQ5s",
+                "type": "video"
+            },
+            {
+                "componentName": "gallery",
+                "title": "CHECK OUT MY GALLERY",
+                "images": [
+                    "/assets/b5fb0efd-beef-4807-90e4-b3065ba0d25c.jpg",
+                    "/assets/7a1d0c18-d210-42c8-9c65-ce3f5904deb5.jpg",
+                    "/assets/329a8ba5-9684-4612-abb0-407dbf211677.jpg",
+                    "/assets/39fbffb9-22c8-4dbc-9495-1c3873c65ab1.jpg",
+                    "/assets/69bee777-5c20-4f51-9a5c-bea4a316a96d.jpg",
+                    "/assets/6a95c4ce-bafb-421f-88a3-d89a0bfea4d5.jpg",
+                    "/assets/bf9bc779-6ded-4b28-bb97-97559c332995.jpg",
+                    "/assets/ce95a185-9497-4bc9-a946-c6a3a0121395.jpg"
+                ]
+            },
+            {
+                "componentName": "story",
+                "header": "A CHAT WITH RAUL AND SIMON",
+                "question1": "<p class=\"bold\">WHAT DOES 'FEELS GOOD TO BE YOU' MEAN TO YOU?</p><p>RAUL - It feels good to be me, not you! I try to inspire people as much as I can with my view on this world. People call me nuts and say that I don't fit into any situation, but I think that the world is upside down and my perspective is just fine.</p>",
+                "question2": "<p class=\"bold\">HAVE YOU ALWAYS BEEN INTO MAKING INNOVATIVE AND SOCIALLY VALUABLE THINGS?</p><p>RAUL - I've always tried to create things. My grandfather was an inventor, so I sucked from his teat! When I was growing up, I thought if I'm going to make something, I should really have something to say. I'm not trying to improve society; I'm just trying to improve my society. I don't want to change the world; I just don't want to be changed by the world.</p>",
+                "question3": "<p class=\"bold\">IS THERE ANYONE YOU REMEMBER INDIVIDUALLY FROM GIVING THEM A BOOK?</p><p>RAUL - I create a relationship with many people all over the country, all over the world. Each of them will never forget the book I've given to them. It's treasure; it comes from a crazy project that travels around the country meeting people to show they haven't been forgotten.</p>",
+                "question4": "<p class=\"bold\">WHAT'S YOUR FAVOURITE BOOK?</p><p>RAUL - My favourite books are all the books that are truthful, original, and have been proven right with time such as Aldous Huxley's Brave New World. It came out in 1932 and 80 years later he's demonstrating that what he wrote was true.</p>",
+                "question5": "<p class=\"bold\">WHAT DO YOU THINK WE CAN LEARN FROM RAUL'S APPROACH TO LIFE?</p><p>SIMON - Courage. It's a neutral quality when it comes to morals but it'll take you a long way, and it'll make you think if you're serious about what you want.</p>",
+                "quote": "\"I'm just trying to improve my society.\"",
+                "image1": "/assets/47c653d6-1774-4a34-9b0e-91b5b800a2d9.jpg",
+                "image2": "/assets/9aeea704-b211-4150-8c2c-7be2b1356399.jpg",
+                "image3": "/assets/4a663a49-64fa-4856-9fcb-45d7c188da41.jpg"
+            },
+            {
+                "componentName": "checkOutMore",
+                "articles": [
+                    "originals-loux-the-african-fashionista",
+                    "originals-dong-tuk-tuk-thai-king",
+                    "originals-the-dihzahyners-painting-up-beirut",
+                    "refresh-with-7up-magda-sayed-urban-knitter"
+                ]
+            }
+        ]
+    },
+    "success": true
+}
