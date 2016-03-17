@@ -1,0 +1,55 @@
+{
+    "data": {
+        "categoryID": 1,
+        "slug": "get-inspired-refresh-london",
+        "title": "Get Inspired - Refresh London",
+        "smallImage": "/assets/a4dd0358-0e99-43b6-ae78-6d3cec793d14.jpg",
+        "featured": false,
+        "next_article_slug": "originals-dong-tuk-tuk-thai-king",
+        "previous_article_slug": "originals-loux-the-african-fashionista-1",
+        "tracking_pixel": "https://pixel.newscred.com/px.gif?key=YXJ0aWNsZT00MDcwZTk2N2M4ODNhYTQ2YWNmMDAxZTQyMDI4NzZiNyZwdWJsaXNoZXI9MTg3ODRhZGNmYmFmNDg2MDdiNWUxYzVkOTJhMmJhN2I=",
+        "nc_analytics": "<p>&nbsp;</p>\n<!-- Newscred Content Analytics: eyJhcnRpY2xlX2d1aWQiOiI0MDcwZTk2N2M4ODNhYTQ2YWNmMDAxZTQyMDI4NzZiNyIsImFydGljbGVfdGl0bGUiOiJHZXQgSW5zcGlyZWQgLSBSZWZyZXNoIExvbmRvbiIsInRvcGljX25hbWVzIjoiTG9uZG9uXztfIiwidG9waWNfZ3VpZHMiOiJmZThiNzI1MDM5ZWVhYTNlMzJhMTNlNGEyYWM5NTE5ZV87XyIsInNvdXJjZV9uYW1lIjoiN3VwIiwic291cmNlX2d1aWQiOiJjZGVjNmQ3MDMxN2NhMjcyOTlmMzVjMDk2OGIzZDlhZSIsImxpY2Vuc2VkIjpmYWxzZSwiY2FtcGFpZ25faWQiOiI1NDkzMDcwMGYxNjAwOTA3NGRlZWI4YjYiLCJjYW1wYWlnbl90aXRsZSI6IkZlZWxzIEdvb2QgdG8gQmUgWW91IiwiYWNjb3VudF9pZCI6IjU0OTE5OTI3NDFiZDQ5M2Y4MjljNDBkOCJ9 -->\n<p>&nbsp;</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<img src=\"https://pixel.newscred.com/px.gif?key=YXJ0aWNsZT00MDcwZTk2N2M4ODNhYTQ2YWNmMDAxZTQyMDI4NzZiNyZwdWJsaXNoZXI9MTg3ODRhZGNmYmFmNDg2MDdiNWUxYzVkOTJhMmJhN2I=\" alt=\"\" height=\"1\" width=\"1\" class=\"nc_pixel\"/>",
+        "components": [
+            {
+                "componentName": "intro",
+                "title": "REFRESH LONDON",
+                "introCopy": "\"IT'S CRAZINESS, IT'S MADNESS, IT'S STUFF PEOPLE HAVE NEVER DONE BEFORE.\"",
+                "headerImage": "/assets/a4dd0358-0e99-43b6-ae78-6d3cec793d14.jpg",
+                "videoID": "h2_WfvohOtU",
+                "type": "video"
+            },
+            {
+                "componentName": "secondary-video",
+                "title": "REFRESH LONDON WITH URBAN KNITTING",
+                "copy": "Watch as Madga and her team transform an old London doubledecker bus into the fully knitted Number 7UP Bus in downtown London!",
+                "videoID": "h2_WfvohOtU"
+            },
+            {
+                "componentName": "gallery",
+                "title": "CHECK OUT MY KNIT CREATION",
+                "dragInfoContent": "DRAG TO EXPLORE",
+                "images": [
+                    "/assets/81a3888a-a9c9-46f7-9cca-669619b72ffe.jpg",
+                    "/assets/301c6071-b4b7-4b60-9966-e21f82127640.jpg",
+                    "/assets/2976c89c-3a11-423a-b3a8-82e152d3cc3e.jpg",
+                    "/assets/856a6418-502f-4acf-9df1-aee6ab580e54.jpg",
+                    "/assets/4b936037-6f1c-4e31-92dd-490c328e7ad2.jpg",
+                    "/assets/8fbda27c-634e-4081-9bf4-78196e718f3a.jpg",
+                    "/assets/de341ab3-9812-4714-b2ee-ca344dfae280.jpg",
+                    "/assets/81651b89-c879-4037-8806-ebfab6f90288.jpg",
+                    "/assets/1490ceb2-0295-4756-8c53-d7933b70a730.jpg"
+                ]
+            },
+            {
+                "componentName": "checkOutMore",
+                "articles": [
+                    "refresh-with-7up-hombre-mcsteez-animator",
+                    "originals-dong-tuk-tuk-thai-king",
+                    "refresh-with-7up-magda-sayed-urban-knitter",
+                    "originals-loux-the-african-fashionista-1"
+                ]
+            }
+        ]
+    },
+    "success": true
+}
