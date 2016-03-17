@@ -13766,11 +13766,18 @@ define("app/net/service/ApplicationService", ["require", "exports", "app/net/ser
         b.prototype.getArticles = function(a, b, c, d) {
             void 0 === d && (d = null );
             var e = this.martketPrefix;
-
-            return  this.gateway.get(e+"/items.json", {
+			null  != a && (e += "/" + a)
+			if(e=="en"){
+			   return  this.gateway.get(e+"/items.json", {
                 limit: b,
                 offset: c
-            }, d);
+               }, d);
+			}
+             return  this.gateway.get(e+".json", {
+                limit: b,
+                offset: c
+               }, d);
+
 
             // return null  != a && (e += "/" + a),
             // this.gateway.get(e+"items", {
@@ -14044,7 +14051,7 @@ define("app/net/service/ApplicationService", ["require", "exports", "app/net/ser
         b.prototype.getArticleBySlug = function(a, b) {
             void 0 === b && (b = null );
             var c = this.martketPrefix;
-            return this.gateway.get(c + "/article/" + a, {}, b)
+            return this.gateway.get(c + "/article/" + a+".json", {}, b)
         }
         ,
         b.prototype.getAntiForgeryToken = function(a) {
@@ -43457,6 +43464,7 @@ define("lib/temple/utils/ShareUtils", ["require", "exports", "lib/temple/utils/t
         a.twitterShareUrl = "weixin.html",
         // a.plusShareUrl = "https://plusone.google.com/_/+1/confirm?hl={language}&url={url}",
         a.plusShareUrl = "http://v.t.qq.com/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url={url}",        a.linkedinShareUrl = "http://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}&summary={text}",
+        a.linkedinShareUrl = "http://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}&summary={text}",
         a.pinterestShareUrl = "http://pinterest.com/pin/create/button/?url={url}&media={media}&description={text}",
         a
     }

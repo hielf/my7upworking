@@ -1,0 +1,46 @@
+{
+    "data": {
+        "categoryID": 2,
+        "slug": "refresh-with-7up-a-refreshing-new-look",
+        "title": "Refresh With 7UP - A Refreshing New Look",
+        "smallImage": "/assets/28c73a93-4f9f-4a34-be15-d2dd3f024e53.jpg",
+        "featured": false,
+        "next_article_slug": "refresh-with-7up-7up-since-1929-1",
+        "previous_article_slug": "refresh-with-7up-a-refreshing-new-look",
+        "tracking_pixel": "https://pixel.newscred.com/px.gif?key=YXJ0aWNsZT00NTA0NzUzZmZkNGRkZjVhNjNjOGUwYTZjOTNkNjcyMyZwdWJsaXNoZXI9MTg3ODRhZGNmYmFmNDg2MDdiNWUxYzVkOTJhMmJhN2I=",
+        "nc_analytics": "<p>Refresh With 7UP - A Refreshing New Look</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<img src=\"https://pixel.newscred.com/px.gif?key=YXJ0aWNsZT00NTA0NzUzZmZkNGRkZjVhNjNjOGUwYTZjOTNkNjcyMyZwdWJsaXNoZXI9MTg3ODRhZGNmYmFmNDg2MDdiNWUxYzVkOTJhMmJhN2I=\" alt=\"\" height=\"1\" width=\"1\" class=\"nc_pixel\"/>",
+        "components": [
+            {
+                "componentName": "intro",
+                "title": "A Refreshing New Look",
+                "introCopy": "7UP has always been authentic and original -  just like you.<br><br>We believe what you believe...that it feels good to be you. <br>Being yo natural best.<br>Effortlessly expressing your signature style.<br>Approaching the world with wit, charm and natural flair.<br>Being your best, loving what you do and how you do it<br>living from the inside out, the most authentic, one-of-a-kind you.<br>We believe what you believe...that it feels good to be you.",
+                "headerImage": "/assets/39ab7e55-99ac-4a00-8cc4-8b615e6cffe6.jpg",
+                "type": "image"
+            },
+            {
+                "componentName": "gallery",
+                "title": "A Refreshing New Look",
+                "images": [
+                    "/assets/f5c09b89-e527-498a-bf5e-ee77e95ae378.jpg",
+                    "/assets/f2ce5175-9b04-4408-b7a9-478a84d8adf6.jpg",
+                    "/assets/20770d14-7481-43a3-81f0-aff2e382bbad.jpg",
+                    "/assets/0d71e5e8-a23e-4651-93a6-305be2521241.jpg",
+                    "/assets/948e29dc-c473-47cf-a460-50031d452790.jpg",
+                    "/assets/3cf699e9-a558-4a00-94f8-f0f4e6be97e2.jpg",
+                    "/assets/f27f48f7-5692-48ff-bfd2-517dd62ad583.jpg",
+                    "/assets/28c73a93-4f9f-4a34-be15-d2dd3f024e53.jpg"
+                ]
+            },
+            {
+                "componentName": "checkOutMore",
+                "articles": [
+                    "originals-the-dihzahyners-painting-up-beirut",
+                    "get-inspired-refresh-london",
+                    "refresh-with-7up-the-7up-vintage-art-can-series",
+                    "originals-yinka-the-furniture-freestyler"
+                ]
+            }
+        ]
+    },
+    "success": true
+}

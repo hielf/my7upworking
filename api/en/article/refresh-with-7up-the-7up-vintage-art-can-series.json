@@ -1,0 +1,57 @@
+{
+    "data": {
+        "categoryID": 2,
+        "slug": "refresh-with-7up-the-7up-vintage-art-can-series",
+        "title": "Refresh with 7UP - The 7UP Vintage Art Can Series",
+        "smallImage": "/assets/cd338860-349b-421f-81a0-5b9290f2a158.jpg",
+        "featured": false,
+        "next_article_slug": "originals-zari-the-daily-doodler",
+        "previous_article_slug": "refresh-with-7up-the-7up-vintage-can-series",
+        "tracking_pixel": "https://pixel.newscred.com/px.gif?key=YXJ0aWNsZT0yZjlhNWY5YzNlZDdkYzkxNjU3ZWFhZTM3MTY4OTNiZSZwdWJsaXNoZXI9MTg3ODRhZGNmYmFmNDg2MDdiNWUxYzVkOTJhMmJhN2I=",
+        "nc_analytics": "<p>Refresh with 7UP - The 7UP Vintage Art Can Series</p>\n<img src=\"https://pixel.newscred.com/px.gif?key=YXJ0aWNsZT0yZjlhNWY5YzNlZDdkYzkxNjU3ZWFhZTM3MTY4OTNiZSZwdWJsaXNoZXI9MTg3ODRhZGNmYmFmNDg2MDdiNWUxYzVkOTJhMmJhN2I=\" alt=\"\" height=\"1\" width=\"1\" class=\"nc_pixel\"/>",
+        "components": [
+            {
+                "componentName": "intro",
+                "title": "THE 7UP VINTAGE<br> ART CAN SERIES",
+                "introCopy": "Introducing the Limited Edition 7UP Vintage Art Can Series. \n<br> Join us on a journey celebrating 7UP originality throughout the years.",
+                "headerImage": "/assets/3ee18a50-8b64-4d3f-a18e-09faca7df9d2.png",
+                "type": "image"
+            },
+            {
+                "componentName": "secondary-video",
+                "title": "6 ICONIC DECADES  6 COLLECTABLE ART CANS",
+                "copy": "Presenting the ultimate throwback with the<br> 7UP? Vintage Limited Edition Art Can Series",
+                "thumbnail": "/assets/e305bfca-e7b6-44ad-bc93-ceb576004cf1.png",
+                "videoID": "Fd8EonCcyAs"
+            },
+            {
+                "componentName": "gallery",
+                "title": "See it come to life",
+                "images": [
+                    "/assets/de86b996-bd6d-4629-ad83-9840931bf406.jpg",
+                    "/assets/647a7fa7-fb35-44ca-b375-e46b13fb2ba1.jpg",
+                    "/assets/6f91d4db-cee3-4c96-b755-b8e35a51e7f4.jpg",
+                    "/assets/f1cfb396-5e7e-43b9-99a8-dad4dff85e15.jpg",
+                    "/assets/cd338860-349b-421f-81a0-5b9290f2a158.jpg",
+                    "/assets/9464aefe-ad5e-443f-87fa-16128caf28a5.jpg",
+                    "/assets/e08182a9-110c-4a0d-ad8b-18fa4b8effab.jpg",
+                    "/assets/dccbf378-fbbb-42f6-bb74-50d410fa0143.jpg",
+                    "/assets/9e8b6853-8f04-45b1-a56b-075ee0e06cc9.jpg",
+                    "/assets/1000db16-780a-4601-8850-449a7d7096fe.jpg",
+                    "/assets/52a14517-d38e-4a90-937c-aac08263fad8.jpg",
+                    "/assets/57913fa4-a8ac-4f77-97b7-90eb091512fc.jpg"
+                ]
+            },
+            {
+                "componentName": "checkOutMore",
+                "articles": [
+                    "refresh-with-7up-magda-sayed-urban-knitter",
+                    "refresh-with-7up-hombre-mcsteez-animator",
+                    "originals-zari-the-daily-doodler",
+                    "originals-yinka-the-furniture-freestyler"
+                ]
+            }
+        ]
+    },
+    "success": true
+}

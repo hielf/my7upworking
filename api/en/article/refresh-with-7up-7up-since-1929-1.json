@@ -1,0 +1,53 @@
+{
+    "data": {
+        "categoryID": 2,
+        "slug": "refresh-with-7up-7up-since-1929-1",
+        "title": "Refresh with 7UP - 7UP Since 1929",
+        "smallImage": "/assets/0c3511aa-4737-42f1-a25f-458375480152.jpg",
+        "featured": false,
+        "next_article_slug": "originals-simon-harbord-the-experimental-photographer",
+        "previous_article_slug": "refresh-with-7up-7up-since-1929-1",
+        "tracking_pixel": "https://pixel.newscred.com/px.gif?key=YXJ0aWNsZT1lOGZjZjBhNzljZDMxMzRkMDhkM2VlOWYyZmIyMDc4NSZwdWJsaXNoZXI9MTg3ODRhZGNmYmFmNDg2MDdiNWUxYzVkOTJhMmJhN2I=",
+        "nc_analytics": "<p>Refresh with 7UP - 7UP Since 1929</p>\n\n\n\n\n\n\n\n\n\n\n\n<img src=\"https://pixel.newscred.com/px.gif?key=YXJ0aWNsZT1lOGZjZjBhNzljZDMxMzRkMDhkM2VlOWYyZmIyMDc4NSZwdWJsaXNoZXI9MTg3ODRhZGNmYmFmNDg2MDdiNWUxYzVkOTJhMmJhN2I=\" alt=\"\" height=\"1\" width=\"1\" class=\"nc_pixel\"/>",
+        "components": [
+            {
+                "componentName": "intro",
+                "title": "Refresh with 7UP",
+                "introCopy": "CELEBRATING A REFRESHINGLY COLORFUL HISTORY<br><br>Born in 1929 during the Great Depression, 7UP cameon<br>the scene when America needed it most.<br><br>It offered bubbly lemon-lime refreshment with the promise<br>to settle your stomach and make you smile.<br><br>7UP is the original lemon-lime beverage.<br>It is as fresh and original today as it ever was.",
+                "headerImage": "/assets/e1c8e36b-35f9-4db0-80af-f50051599053.jpg",
+                "type": "image"
+            },
+            {
+                "componentName": "in-page-featured-image",
+                "headerImage": "/assets/b29f7e68-bbf8-4dbe-8f94-026e601be041.jpg"
+            },
+            {
+                "componentName": "gallery",
+                "images": [
+                    "/assets/fe25f3cb-f38e-4533-b395-ee8f6255e764.jpg",
+                    "/assets/99bf0e62-e421-409b-82c6-97de2d258a08.jpg",
+                    "/assets/d2d4b635-9176-425d-be36-2ce23f28a00c.jpg",
+                    "/assets/84558efb-ef31-4e5a-949b-15da8cb2b7bc.jpg",
+                    "/assets/28465875-5ab5-44aa-b27f-3bcbecdb952d.jpg",
+                    "/assets/fc353e8a-1193-4623-bfe5-924d0bb83b18.jpg",
+                    "/assets/61655497-f2ae-4eda-b679-bd41e208b988.jpg",
+                    "/assets/205d429e-a54f-4c14-b59d-8523276559d9.jpg",
+                    "/assets/54852ff2-b895-484f-858a-3ecbef6b30a7.jpg",
+                    "/assets/10868698-5889-41ef-ad3f-1662526e0b87.jpg",
+                    "/assets/5b480851-9458-4f43-a0bc-e2f3f98e411b.jpg",
+                    "/assets/f3f2c503-b11b-4642-8dfb-3df587cfc167.jpg"
+                ]
+            },
+            {
+                "componentName": "checkOutMore",
+                "articles": [
+                    "refresh-with-7up-the-7up-vintage-art-can-series",
+                    "refresh-with-7up-magda-sayed-urban-knitter",
+                    "originals-zari-the-daily-doodler",
+                    "originals-yinka-the-furniture-freestyler"
+                ]
+            }
+        ]
+    },
+    "success": true
+}

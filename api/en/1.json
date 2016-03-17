@@ -1,0 +1,17 @@
+{
+    "data": {
+        "items": [
+            {
+                "categoryID": 1,
+                "slug": "get-inspired-refresh-london",
+                "title": "Get Inspired - Refresh London",
+                "smallImage": "/assets/a4dd0358-0e99-43b6-ae78-6d3cec793d14.jpg",
+                "featured": false
+            }
+        ],
+        "limit": 100,
+        "offset": 0,
+        "total": 1
+    },
+    "success": true
+}
