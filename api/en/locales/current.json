@@ -8,13 +8,13 @@
     "filter": "菜单",
     "drag_to_explore": "拖动探索",
     "article": {
-      "scroll_down": "scroll down",
-      "back_to_top": "back to top",
-      "share_this_picture": "share this picture",
-      "check_out_my_favorite_spot": "check out my favorite spot:",
-      "check_out_my_photos": "CHECK OUT<br>MY PICS",
-      "check_out_more": "check out<br>more",
-      "check_out_my_story": "CHECK OUT MY STORY"
+      "scroll_down": "向下滚屏",
+      "back_to_top": "返回首页",
+      "share_this_picture": "分享图片",
+      "check_out_my_favorite_spot": "我最喜爱的餐厅：",
+      "check_out_my_photos": "我的相册",
+      "check_out_more": "体验更多<br>感受更多",
+      "check_out_my_story": "我的故事"
     }
   },
   "locales": {

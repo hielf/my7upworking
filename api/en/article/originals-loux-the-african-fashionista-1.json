@@ -12,16 +12,16 @@
         "components": [
             {
                 "componentName": "intro",
-                "title": "Loux The African Fashionista",
-                "introCopy": "<p>\"MY GRANDFATHER ONCE TOLD ME:MY SON,\nFASHION IS WHAT YOU ARE TAUGHT\nWHEN YOU DON'T KNOW YET WHO YOU ARE,\nSO ALWAYS LOOK WELL DRESSED.\"</p>",
+                "title": "洛克斯：非洲时尚达人",
+                "introCopy": "<p>\"祖父曾经教导我：孩子，在你还不了解自己风格的时候，你只能从别人那里了解时尚，要记得始终保持着体面的穿着。\"</p>",
                 "headerImage": "/assets/e95702e1-3618-4772-ba1a-c12710176a3e.jpg",
                 "videoID": "3S0Zko0Cjy8",
                 "type": "video"
             },
             {
                 "componentName": "gallery",
-                "title": "Check out my style",
-                "dragInfoContent": "DRAG TO EXPLORE",
+                "title": "我的型格",
+                "dragInfoContent": "拖动探索",
                 "images": [
                     "/assets/97c0c05c-84a9-42fa-a350-171478c33951.jpg",
                     "/assets/d4dc4dca-6ce9-4c88-b691-c5727748cb47.jpg",
@@ -37,21 +37,21 @@
             },
             {
                 "componentName": "story",
-                "header": "A CHAT WITH LOUX",
-                "question1": "<p class=\"bold\">How would you define your style?</p><p>LOUX - In two words: sophistication punk. It's a mixture of vintage and modern. If I'm not going to the market to buy vintage clothes, I'm designing a garment with a vintage feel that's modernised to the current fashion era.</p>",
-                "question2": "<p class=\"bold\">What's unique about the fashion scene in South Africa? What do you find there that you can't find anywhere else?</p><p>LOUX - The African prints. They symbolise unity and the different cultures across Africa. The style is basically the same as in the West, but the difference is what we put on. We always try to wear prints that represent our cultures.</p>",
-                "question3": "<p class=\"bold\">You speak fondly about your grandfather. How did he inspire you?</p><p>LOUX - My grandfather would dress in a suit everyday. Whenever I visited him, he would always tell me that when I grow up, I should maintain the look of wearing suits, shiny suits and ties. The tradition carries on.</p>",
-                "question4": "<p class=\"bold\">When you're looking for vintage clothes in the market, what is it that catches your eye?</p><p>LOUX - If you compare a pick-up truck from 1979 and a brand new truck, the new one always breaks more easily. It's the same with clothes. At those markets, I don't even look at the fabric because I know the clothes are already high quality. But I also love finding blazers, club ties and accessories like pocket squares, cufflinks and bowties.</p>",
-                "question5": "<p class=\"bold\">What does 'Feels Good To Be You mean to you?</p><p>LOUX - It's the thing that separates dreamers from entrepreneurs. It means continuing to inspire others through creativity while staying positive in action and thought.</p>",
-                "quote": "\"It means continuing to inspire others through creativity while staying positive in action and thought.\"",
+                "header": "与洛克斯畅谈",
+                "question1": "<p class=\"bold\">你如何定义自己的型格？</p><p>洛克斯—四个字：别致朋克。它是复古与摩登的巧妙糅合。 我不是在去市场淘古董服饰的路上，就是尝试将最in潮流元素 融入复古型装。</p>",
+                "question2": "<p class=\"bold\">南非的时尚舞台有何独到之处？在南非，你看到哪些别处没有的时尚元素？</p><p>洛克斯—非洲图纹。它们象征着非洲大陆的独特风情和斑斓多彩的文化。非洲的时尚风格与西方基本相同，所不同的是我们在其上添加的非洲特色。我们不断尝试将非洲文化元素融入日常穿着。</p>",
+                "question3": "<p class=\"bold\">刚才你深情地谈及你的祖父。他对你有何启迪、激励？</p><p>洛克斯—祖父每天坚持以西装革履的形象示人。每次去看望祖父，他总是告诉我，等我长大了，我每天都应该穿上笔挺合身的西装，配上漂亮的领带。这一传统在我身上得以延续和传承。</p>",
+                "question4": "<p class=\"bold\">你在市场上淘古董衫时，哪些元素最易吸引你的眼球？</p><p>洛克斯—如果对比一部1979年产的皮卡和一辆崭新的卡车，新车通常更易破损。购置服装也同样如此。在跳蚤市场上，我甚至都不太关注面料，因为古董衫本身就是高品质的代名词。但我也热衷于搜购运动夹克、社团领带和配饰，譬如口袋方巾、袖口和蝶形领结等。</p>",
+                "question5": "<p class=\"bold\">“爱自己”对你而言意味着什么？</p><p>洛克斯—“爱自己”是区别梦想家与企业家的分水岭。这意味着以创新激发大众的时尚灵感，并保持敏锐的时尚嗅觉和行动力。</p>",
+                "quote": "\"这意味着以创新激发大众的时尚灵感， 并保持敏锐的时尚嗅觉和行动力。\"",
                 "image1": "/assets/6e5d1eed-0891-40dc-abf4-f7c870324b58.jpg",
                 "image2": "/assets/50dde04d-dccc-486b-98ee-14de5bf446b8.jpg",
                 "image3": "/assets/72403028-e8dd-4901-81d3-2dea94dd4291.jpg"
             },
             {
                 "componentName": "story-gallery",
-                "title": "Joe's Beerhouse",
-                "copy": "<p>Loux's favorite spot is Joe's Beerhouse in his hometown of Windhoek, Namibia. So many different rooms! Joe's Beerhouse is not one to miss!<br>The food is tasty, you get lots of food, and the people who work there are great! If you're looking for a delicious meal that fills you to your very core, Joe's Beerhouse is a great one.</p>",
+                "title": "乔的啤酒坊",
+                "copy": "<p>洛克斯最喜爱的餐厅是位于其家乡纳米比亚温特和克（Windhoek）的“乔的啤酒坊”。这里拥有多间风情各异的主题餐厅！乔的啤酒坊是每一位食尚大人不容错过的特色餐厅。<br>在这里，丰富多姿的美酒佳肴与工作人员的贴心服务相得益彰，为您带来一场场视觉与味觉的饕餮盛宴。乔的啤酒坊以震撼味蕾的各式菜肴，成为美食控们的不二之选。</p>",
                 "images": [
                     "/assets/52a6aed5-5fdd-453f-9d8e-ecafefe75556.jpg",
                     "/assets/ba6e98e8-ccc9-4036-b8ec-f0a6aa1251cc.jpg",
@@ -68,7 +68,7 @@
             },
             {
                 "componentName": "polaroid",
-                "copy": "Loux and friends put together their best street style.",
+                "copy": "洛克斯与友人的都市街头风造型",
                 "photos": [
                     "/assets/699c79cf-ea0b-46c6-a1ce-0a34396de179.jpg",
                     "/assets/701c5752-024c-4f32-aedc-890e8ccd6856.jpg",
