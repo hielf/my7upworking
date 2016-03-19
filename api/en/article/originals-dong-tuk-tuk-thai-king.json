@@ -12,15 +12,15 @@
         "components": [
             {
                 "componentName": "intro",
-                "title": "DONG TUK TUK THAI KING",
-                "introCopy": "<p>\"HE JUST WANTS PEOPLE TO EAT IT\nAS IT SHOULD BE EATEN;\nHE IS TOTALLY PASSIONATE ABOUT THAT.\"</p>",
+                "title": "董：嘟嘟车上的泰国街头小吃之王",
+                "introCopy": "<p>\"他只是希望人们都能品尝到他做的美食，因为他对自己的厨艺十分自信。他特别热衷于此 这一点让他乐此不疲。\"</p>",
                 "headerImage": "/assets/27b6656d-9a3a-45ee-9828-59b2d601b7ff.jpg",
                 "videoID": "uq87IUlHD88",
                 "type": "video"
             },
             {
                 "componentName": "gallery",
-                "title": "CHECK OUT MY COOKING",
+                "title": "我的美味佳肴",
                 "dragInfoContent": "DRAG TO EXPLORE",
                 "images": [
                     "/assets/aeeb03ef-8bfa-492d-a588-9e67858e0f0e.jpg",
@@ -35,21 +35,21 @@
             },
             {
                 "componentName": "story",
-                "header": "A CHAT WITH DONG AND SARAH",
-                "question1": "<p class=\"bold\">Was food always important in your family?</p><p>DONG - Definitely, but I actually taught myself. I would look at recipes or see people cooking something and then try and add my own style. My mum often comes to the UK from Thailand but I'm not sure if she likes my food! She doesn't eat anything that spicy. I make food that blows your head off, so she eats the same kind of food we make for the kids!</p>",
-                "question2": "<p class=\"bold\">What do you eat when you get back home from work, you're tired and haven't got time to cook a Pad Thai?</p><p>DONG - Most of the time I can make something in 5 minutes. A Thai staple is called 'Mama Noodles'. It's basically instant noodles that we jazz up with all kinds of stuff like eggs and sausage and chilli and lime and coriander��Either that or we order a pizza!</p>",
-                "question3": "<p class=\"bold\">What does 'Feels Good to Be You' mean to you?</p><p>DONG - I'm really proud to say that I love my job. Before doing Bang Wok, I was working in a pub where the clientele was asking for Thai Green Curry with chips instead of rice. But now I can finally serve the food I want to serve. I'm doing it properly! </p>",
-                "question4": "<p class=\"bold\">Your dishes have some interesting names��where do they come from?</p><p>DONG - Here's one example. I was in Leeds last year making a slow-cooked beef curry and I didn't know how to describe it. So I went to this school next door and said, \"I'm trying to write the menu. It's 'Beef Cooked Long-Time Curry,'\" and they thought it was hilarious. They convinced me to keep the name, instead of changing it to 'slow-cooked beef' because it's much more funny.</p>",
-                "question5": "<p class=\"bold\">How does Dong embody 'Feels Good to be You'?</p><p>SARAH - All Thai people have a lot of initiative. They say everything has to have an element of 'sunuk,' which is a Thai concept about getting satisfaction and pleasure from what you do. Dong wasn't happy with his job before Bang Wok, so he had to do something in his life that had an element of fun and made him happy.</p>",
-                "quote": "\"'Sunuk' is a Thai concept about getting satisfaction and pleasure from what you do.\"",
+                "header": "与董和萨拉畅谈",
+                "question1": "<p class=\"bold\">美食是否是始终你家的一项极为重要的追求？</p><p>董—当然。但实际上我自学成才。我会研究菜谱或观察别人烹饪的方法与技巧，然后尝试融入我自己的个性化元素。我妈妈经常从泰国飞到英国来看我，但我不知道她是否喜欢我做的菜！她不吃任何辛辣食物。但我的菜肴通常以麻辣鲜香见长，所以妈妈只吃我们烹饪的儿童餐点！</p>",
+                "question2": "<p class=\"bold\">在结束一天的忙碌工作后下班回家，你已疲惫不堪且已没时间烹饪泰式菜肴，你会选择吃什么？</p><p>董—通常情况下，我可以在五分钟之内搞定速食晚餐。泰国有一种主食叫“妈妈面条”，与方便面相仿，我们在其中添加各类食材，譬如鸡蛋、香肠、辣椒、柠檬和香菜等等……有时，我们会干脆定个披萨！/如果不这样，我们就会订个披萨！</p>",
+                "question3": "<p class=\"bold\">“爱自己”对你而言意味着什么？</p><p>董—我很自豪地说，我非常热爱自己的工作。在经营Bang Wok流动餐厅之前，我在一间酒吧上班，那里的顾客喜欢泰国绿咖喱与薯条的搭配，而不是米饭。但是现在，我们终于可以按照我喜爱的方式搭配和供应美食了。我的搭配方式确保你可以品尝到正宗的泰式佳肴！</p>",
+                "question4": "<p class=\"bold\">你有一些十分有趣的菜名……你是如何给菜取名的？</p><p>董—我这里就有一个例子。去年，我在英国利兹大学以文火慢煮方式实验出一道咖喱牛肉，但却不知如何命名这一菜品。于是，我前往家门口的学校跟学生探讨：“我正在尝试给一道菜取名，我想叫它’慢火烹咖喱牛肉’。” 学生们都觉得这个菜名自带喜感，而不赞同将菜名变更为“慢炖牛肉”。因为前者更幽默有趣。</p>",
+                "question5": "<p class=\"bold\">董如何将“爱自己”的精神体现在自己的工作与生活中？</p><p>萨拉—所有泰国人都有一种积极进取的意识。他们深信Sunuk的精神要素存在于万事万物之中。Sunuk是泰国的一种生活理念，是指从你所做的事情中获得满足感与愉悦感。在经营Bang Wok流动餐车之前，董对自己的工作并不满意。因此他决定做一些不乏趣味性且有助他保持积极乐观生活态度的事情。</p>",
+                "quote": "\"Sunuk是泰国的一种生活理念， 是指从你所做的事情中获得满足感与愉悦感。\"",
                 "image1": "/assets/4708da2e-66f2-48e2-b813-8cb608d81d16.jpg",
                 "image2": "/assets/ded01d5c-13bb-43cc-8ed3-88866c59e246.jpg",
                 "image3": "/assets/c6ebe603-3711-4060-9979-d98b1b86b278.jpg"
             },
             {
                 "componentName": "story-gallery",
-                "title": "Bone Daddies Ramen Bar",
-                "copy": "<p>Bone Daddies in London, England is not your typical ramen bar. That is why it is Dong's favorite spot. There is always a twist added just to spice things up! The spot has a great mixture of modern art and homely feel. It ensures a fun surrounding as you tuck into your hearty bowl of noodles.</p>",
+                "title": "汤骨老爹拉面馆",
+                "copy": "<p>位于英国伦敦的汤骨老爹拉面馆并不是一家传统意义上的拉面馆。正因为如此，它才成为董最喜爱的餐厅。他们通过满足客户对视觉与味觉新鲜感的需求，成为当地美食界潮牌。餐厅内部富有浓郁现代气息的设计，融入了艺术与居家的文化元素，给人以宾至如归的温暖感。其妙趣横生的环境设计确保能够以一碗地道拉面让你吃出酣畅淋漓的感觉。</p>",
                 "images": [
                     "/assets/31f3421f-68ee-4083-8dc5-9e1b747d6bd1.jpg",
                     "/assets/a3269aec-5260-4c67-8e54-9b8f35b84a1b.jpg",
@@ -66,7 +66,7 @@
             },
             {
                 "componentName": "polaroid",
-                "copy": "<p>Dong and his family out in London!</p>",
+                "copy": "<p>董和家人在伦敦！</p>",
                 "photos": [
                     "/assets/64fb4dc9-1c1d-43ea-80b0-0d4a13c094c4.jpg",
                     "/assets/7fe921f4-dad9-4ae4-8a5c-8cb1679140a0.jpg",

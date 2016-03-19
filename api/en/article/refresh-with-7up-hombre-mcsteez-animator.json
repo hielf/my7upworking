@@ -12,15 +12,15 @@
         "components": [
             {
                 "componentName": "intro",
-                "title": "HOMBRE_MCSTEEZ ANIMATOR",
-                "introCopy": "\"IT'S BASICALLY, DRAWING, HAVING FUN, MAKING MYSELF LAUGH\"",
+                "title": "翁布勒·麦史蒂斯：动画设计师的顽童世界",
+                "introCopy": "\"动画设计基本上就是专注的绘画、尽情地玩乐和沉醉的自嗨。\"",
                 "headerImage": "/assets/8ef34a26-1b17-4ebd-a9fb-2bd5a96841a9.jpg",
                 "videoID": "00TQe_HqkdY",
                 "type": "video"
             },
             {
                 "componentName": "gallery",
-                "title": "Refresh Your Reality",
+                "title": "另眼看现实",
                 "images": [
                     "/assets/126f273e-7c60-4738-ac33-e1dae9d0a070.png",
                     "/assets/e74f12ca-f8df-4640-b239-0cc846f836f0.png",
@@ -35,8 +35,8 @@
             },
             {
                 "componentName": "secondary-video",
-                "title": "REFRESH YOUR IMAGINATION",
-                "copy": "<p>\"Hombre_McSteez (aka \"\"Marty Cooper\"\") animates cartoons \non clear plastic cels and holds them up to\nthe world to create an augmented reality.\n<br>\nUsing this original animation technique, \nHombre_McSteez turns everyday life into \nan humorous, creature-filled, cartoon universe.\"</p>",
+                "title": "脑洞打开 刷新想象",
+                "copy": "<p>\"翁布勒·麦史蒂斯又名马蒂·库珀，是个喜欢在幻灯片上涂鸦的大顽童。他喜欢将动漫涂鸦作品融入真实的生活场景，制造出别样的笑点。<br>借助这种原创性动画技术，翁布勒·麦史蒂斯得以将日常生活变化成<br>幽默诙谐、妙趣横生的卡通世界。\"</p>",
                 "videoID": "Maji3tnA0Pw"
             },
             {

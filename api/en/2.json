@@ -11,7 +11,7 @@
             {
                 "categoryID": 2,
                 "slug": "refresh-with-7up-a-refreshing-new-look",
-                "title": "Refresh With 7UP - A Refreshing New Look",
+                "title": "7乐无穷",
                 "smallImage": "/assets/28c73a93-4f9f-4a34-be15-d2dd3f024e53.jpg",
                 "featured": false
             },
@@ -25,14 +25,14 @@
             {
                 "categoryID": 2,
                 "slug": "refresh-with-7up-magda-sayed-urban-knitter",
-                "title": "Refresh with 7up - Magda Sayed Urban Knitter",
+                "title": "玛格达塞伊格： 一针一线编织炫彩城市",
                 "smallImage": "/assets/7bb3bfcd-c150-4706-b22d-dc7a66557037.jpg",
                 "featured": false
             },
             {
                 "categoryID": 2,
                 "slug": "refresh-with-7up-hombre-mcsteez-animator",
-                "title": "Refresh with 7up - Hombre_McSteez Animator",
+                "title": "翁布勒麦史蒂斯： 动画设计师的顽童世界",
                 "smallImage": "/assets/5997fbcd-5cc4-4bb1-86fe-42cd6b9a4048.jpg",
                 "featured": false
             }

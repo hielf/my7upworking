@@ -12,14 +12,14 @@
         "components": [
             {
                 "componentName": "intro",
-                "title": "A Refreshing New Look",
-                "introCopy": "7UP has always been authentic and original -  just like you.<br><br>We believe what you believe...that it feels good to be you. <br>Being yo natural best.<br>Effortlessly expressing your signature style.<br>Approaching the world with wit, charm and natural flair.<br>Being your best, loving what you do and how you do it<br>living from the inside out, the most authentic, one-of-a-kind you.<br>We believe what you believe...that it feels good to be you.",
+                "title": "新装上阵<br>7乐无穷",
+                "introCopy": "七喜的纯粹与自然，一如纯粹自然的你<br><br>我们信你所信：时刻乐在其中，<br>做最纯粹最优秀的自己。<br>敢于自信、自我地表达个性。<br>以睿智、魅力和天赋去面对世界。<br>做最好的自己、悦纳自我，<br>由内而外地享受生活，做最纯粹最独特的自己。<br>我们信你所信：时刻乐在其中，悦纳自我。",
                 "headerImage": "/assets/39ab7e55-99ac-4a00-8cc4-8b615e6cffe6.jpg",
                 "type": "image"
             },
             {
                 "componentName": "gallery",
-                "title": "A Refreshing New Look",
+                "title": "新装上阵<br>7乐无穷",
                 "images": [
                     "/assets/f5c09b89-e527-498a-bf5e-ee77e95ae378.jpg",
                     "/assets/f2ce5175-9b04-4408-b7a9-478a84d8adf6.jpg",

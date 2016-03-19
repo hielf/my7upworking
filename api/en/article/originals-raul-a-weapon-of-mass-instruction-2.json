@@ -12,15 +12,15 @@
         "components": [
             {
                 "componentName": "intro",
-                "title": "RAUL A WEAPON OF MASS INSTRUCTION",
-                "introCopy": "<p>RAUL IS ONE OF THOSE CRAZY, GREAT PEOPLE NEEDED IN SOCIETY.</p>",
+                "title": "劳尔：大众教学的武器装备",
+                "introCopy": "<p>劳尔是那种为我们社会所需要的人：桀骜不羁却不失伟大。</p>",
                 "headerImage": "/assets/c5189b68-68e6-4ce1-9e4e-934dab5103df.jpg",
                 "videoID": "kwMc0pHkQ5s",
                 "type": "video"
             },
             {
                 "componentName": "gallery",
-                "title": "CHECK OUT MY GALLERY",
+                "title": "我的画廊",
                 "images": [
                     "/assets/b5fb0efd-beef-4807-90e4-b3065ba0d25c.jpg",
                     "/assets/7a1d0c18-d210-42c8-9c65-ce3f5904deb5.jpg",
@@ -34,13 +34,13 @@
             },
             {
                 "componentName": "story",
-                "header": "A CHAT WITH RAUL AND SIMON",
-                "question1": "<p class=\"bold\">WHAT DOES 'FEELS GOOD TO BE YOU' MEAN TO YOU?</p><p>RAUL - It feels good to be me, not you! I try to inspire people as much as I can with my view on this world. People call me nuts and say that I don't fit into any situation, but I think that the world is upside down and my perspective is just fine.</p>",
-                "question2": "<p class=\"bold\">HAVE YOU ALWAYS BEEN INTO MAKING INNOVATIVE AND SOCIALLY VALUABLE THINGS?</p><p>RAUL - I've always tried to create things. My grandfather was an inventor, so I sucked from his teat! When I was growing up, I thought if I'm going to make something, I should really have something to say. I'm not trying to improve society; I'm just trying to improve my society. I don't want to change the world; I just don't want to be changed by the world.</p>",
-                "question3": "<p class=\"bold\">IS THERE ANYONE YOU REMEMBER INDIVIDUALLY FROM GIVING THEM A BOOK?</p><p>RAUL - I create a relationship with many people all over the country, all over the world. Each of them will never forget the book I've given to them. It's treasure; it comes from a crazy project that travels around the country meeting people to show they haven't been forgotten.</p>",
-                "question4": "<p class=\"bold\">WHAT'S YOUR FAVOURITE BOOK?</p><p>RAUL - My favourite books are all the books that are truthful, original, and have been proven right with time such as Aldous Huxley's Brave New World. It came out in 1932 and 80 years later he's demonstrating that what he wrote was true.</p>",
-                "question5": "<p class=\"bold\">WHAT DO YOU THINK WE CAN LEARN FROM RAUL'S APPROACH TO LIFE?</p><p>SIMON - Courage. It's a neutral quality when it comes to morals but it'll take you a long way, and it'll make you think if you're serious about what you want.</p>",
-                "quote": "\"I'm just trying to improve my society.\"",
+                "header": "对话劳尔与西蒙",
+                "question1": "<p class=\"bold\">“乐在7中”对你而言意味着什么？</p><p>劳尔—“乐在7中”意味着对自己感觉良好，坚持做自己，不做别人的影子。我总是尽己所能地用我的世界观激励大众。有些人将我视作疯子，说我与这个世界格格不入。但我认为这个世界本末倒置，而我的观点并无不妥之处。</p>",
+                "question2": "<p class=\"bold\">你是否一直热衷于创造新颖有创意且具有社会价值的事物？</p><p>劳尔—我一直尝试去创造新鲜事物。我的祖父是一位发明家，我从他身上汲取到创新的精髓。长大后，我想：倘想创造新鲜事物，我就必须有自己的想法与思路。我并不尝试改变整个社会，我只是想尽力改良我的社会。我并不想改变整个世界，我只是不希望被世界改变。</p>",
+                "question3": "<p class=\"bold\">在你向人们分发书籍的过程中是否有任何人给你留下了深刻的印象？</p><p>劳尔—我与全国各地甚至世界各地的许多人建立起一种关系。他们每个人都不会忘记我赠予他们的书。这些书籍是贵重的珍宝，来自一个颇为疯狂的项目。在项目中，我们走遍全国各地，结交朋友，向他们证明：世界没有遗忘他们。</p>",
+                "question4": "<p class=\"bold\">你最喜爱的一本书是什么？</p><p>劳尔：我喜欢所有真实且经过时间检验和沉淀的原创书籍，其中包括阿道司赫胥黎所著的《美丽新世界》。该书于1932年初版，80年后人们方才理解赫胥黎所著内容的正确性。</p>",
+                "question5": "<p class=\"bold\">你认为劳尔的生活态度有什么值得我们学习之处？</p><p>西蒙—勇气。从道德视角来看，勇气是一种中性的品质。但是勇气可以引领你不断前行，引发你自省，判别自己是否在坚定地践行理想。</p>",
+                "quote": "\"我只是想尽力改良我的社会。\"",
                 "image1": "/assets/47c653d6-1774-4a34-9b0e-91b5b800a2d9.jpg",
                 "image2": "/assets/9aeea704-b211-4150-8c2c-7be2b1356399.jpg",
                 "image3": "/assets/4a663a49-64fa-4856-9fcb-45d7c188da41.jpg"
