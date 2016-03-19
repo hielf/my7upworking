@@ -3,27 +3,6 @@
         "items": [
             {
                 "categoryID": 0,
-                "slug": "originals-simon-harbord-the-experimental-photographer",
-                "title": "Originals - Simon Harbord The Experimental Photographer",
-                "smallImage": "/assets/bcd70e5a-64db-471e-ac4c-173aa4e8656d.jpg",
-                "featured": false
-            },
-            {
-                "categoryID": 0,
-                "slug": "originals-yinka-the-furniture-freestyler",
-                "title": "Originals - Yinka The Furniture Freestyler",
-                "smallImage": "/assets/5bd096ed-faa9-4700-bae2-5c9634a5169a.jpg",
-                "featured": false
-            },
-            {
-                "categoryID": 0,
-                "slug": "originals-zari-the-daily-doodler",
-                "title": "Originals - Zari The Daily Doodler",
-                "smallImage": "/assets/1d3a40cd-38d9-4ca7-bd34-d5aa16230bcf.jpg",
-                "featured": false
-            },
-            {
-                "categoryID": 0,
                 "slug": "originals-the-dihzahyners-painting-up-beirut",
                 "title": "Originals - The Dihzahyners Painting up Beirut",
                 "smallImage": "/assets/90a2406c-7e77-4830-9a6b-2f7260a71156.jpg",
@@ -53,7 +32,7 @@
         ],
         "limit": 100,
         "offset": 0,
-        "total": 7
+        "total": 4
     },
     "success": true
 }
