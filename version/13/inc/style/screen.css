@@ -6812,10 +6812,10 @@ button.close {
     background-image:url(../image/icons/icn-category-0-active.svg)
 }
 .component-checkOutMore .articles .item .top .image-wrap .category-icon .icon.category_1 {
-    background-image:url(../image/icons/icn-category-1-active.svg)
+    background-image:url(../image/icons/icn-category-1-active2.png)
 }
 .component-checkOutMore .articles .item .top .image-wrap .category-icon .icon.category_2 {
-    background-image:url(../image/icons/icn-category-2-active.svg)
+    background-image:url(../image/icons/icn-category-2-active.png)
 }
 .component-checkOutMore .articles .item .top .image-wrap .curved-text-wrap {
     position:absolute;
@@ -8549,10 +8549,10 @@ body,html {
     background-image:url(../image/icons/icn-category-0-active.svg)
 }
 #page-footer .left .filters-wrap .filters a.active .filter-wrap-icon .filter-icon.cat-1,#page-footer .left .filters-wrap .filters a.active .filter-wrap-icon .filter-icon.get-inspired {
-    background-image:url(../image/icons/icn-category-1-active.svg)
+    background-image:url(../image/icons/icn-category-1-active2.png)
 }
 #page-footer .left .filters-wrap .filters a.active .filter-wrap-icon .filter-icon.cat-2,#page-footer .left .filters-wrap .filters a.active .filter-wrap-icon .filter-icon.refresh-with-7up {
-    background-image:url(../image/icons/icn-category-2-active.svg)
+    background-image:url(../image/icons/icn-category-2-active2.png)
 }
 #page-footer .left .filters-wrap .filters a.active .text {
     color:#ec1a38
@@ -8587,10 +8587,10 @@ body,html {
     background-image:url(../image/icons/icn-category-0.svg)
 }
 #page-footer .left .filters-wrap .filters a .filter-wrap-icon .filter-icon.cat-1,#page-footer .left .filters-wrap .filters a .filter-wrap-icon .filter-icon.get-inspired {
-    background-image:url(../image/icons/icn-category-1.svg)
+    background-image:url(../image/icons/icn-category-1.png)
 }
 #page-footer .left .filters-wrap .filters a .filter-wrap-icon .filter-icon.cat-2,#page-footer .left .filters-wrap .filters a .filter-wrap-icon .filter-icon.refresh-with-7up {
-    background-image:url(../image/icons/icn-category-2.svg)
+    background-image:url(../image/icons/icn-category-2.png)
 }
 #page-footer .left .filters-wrap .filters a .text {
     float:left;
@@ -8959,7 +8959,7 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
     background-image:url(../image/icons/icn-category-1-active.svg)
 }
 .view.view-home-html section.filter ul.filters a .filter-wrap-icon .filter-icon.refresh-with-7up {
-    background-image:url(../image/icons/icn-category-2-active.svg)
+    background-image:url(../image/icons/icn-category-2-active.png)
 }
 .view.view-home-html section.filter ul.filters a .text {
     float:left;
