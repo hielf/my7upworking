@@ -2,7 +2,7 @@
     "data": {
         "categoryID": 2,
         "slug": "refresh-with-7up-a-refreshing-new-look",
-        "title": "Refresh With 7UP - A Refreshing New Look",
+        "title": "新装上阵 7乐无穷",
         "smallImage": "/assets/28c73a93-4f9f-4a34-be15-d2dd3f024e53.jpg",
         "featured": false,
         "next_article_slug": "refresh-with-7up-7up-since-1929-1",
@@ -34,10 +34,7 @@
             {
                 "componentName": "checkOutMore",
                 "articles": [
-                    "originals-the-dihzahyners-painting-up-beirut",
-                    "get-inspired-refresh-london",
-                    "refresh-with-7up-the-7up-vintage-art-can-series",
-                    "originals-yinka-the-furniture-freestyler"
+                    "originals-the-dihzahyners-painting-up-beirut"
                 ]
             }
         ]

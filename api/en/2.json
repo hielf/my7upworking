@@ -3,23 +3,9 @@
         "items": [
             {
                 "categoryID": 2,
-                "slug": "refresh-with-7up-7up-since-1929-1",
-                "title": "Refresh with 7UP - 7UP Since 1929",
-                "smallImage": "/assets/0c3511aa-4737-42f1-a25f-458375480152.jpg",
-                "featured": false
-            },
-            {
-                "categoryID": 2,
                 "slug": "refresh-with-7up-a-refreshing-new-look",
                 "title": "7乐无穷",
                 "smallImage": "/assets/28c73a93-4f9f-4a34-be15-d2dd3f024e53.jpg",
-                "featured": false
-            },
-            {
-                "categoryID": 2,
-                "slug": "refresh-with-7up-the-7up-vintage-art-can-series",
-                "title": "Refresh with 7UP - The 7UP Vintage Art Can Series",
-                "smallImage": "/assets/cd338860-349b-421f-81a0-5b9290f2a158.jpg",
                 "featured": false
             },
             {
@@ -39,7 +25,7 @@
         ],
         "limit": 100,
         "offset": 0,
-        "total": 5
+        "total": 3
     },
     "success": true
 }
