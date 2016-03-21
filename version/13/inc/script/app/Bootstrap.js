@@ -43510,7 +43510,7 @@ define("app/page/index/IndexController", ["require", "exports", "app/page/Custom
                 j.resolve()
             }
             ,
-            $.getScript("https://www.youtube.com/iframe_api"),
+            // $.getScript("https://www.youtube.com/iframe_api"),
             g.youTubeIframeAPIReady = j.promise(),
             g.sharePageUrl(_baseurl),
             g.shareMediaUrl(_baseurl + "inc/data/share/pin-600.png"),
