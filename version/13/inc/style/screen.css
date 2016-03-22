@@ -5871,7 +5871,7 @@ button.close {
 .component-intro .intro .category p {
     display:inline;
     margin:0;
-    /*background:#fff;*/
+    background:#fff;
     -webkit-transform:translate3d(0,0,0);
     transform:translate3d(0,0,0);
     padding:.33333rem .5rem
