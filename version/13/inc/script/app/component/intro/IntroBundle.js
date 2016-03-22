@@ -104,8 +104,23 @@ define("app/component/intro/IntroController", ["require", "exports", "lib/temple
             e.getInstance().transitioning = !0;
             var b = new TimelineLite({
                 onComplete: function() {
+                    var vpath;
+                    switch (a.articleData.videoID){
+                        case '3S0Zko0Cjy8':
+                            vpath= '<embed src="http://player.youku.com/player.php/sid/XMTUwMTY5MDYyNA==/v.swf" allowFullScreen="true" quality="high" width="100%" height="100%" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>';
+                            break;
+                        case 'uq87IUlHD88':
+                            vpath= '<embed src="http://player.youku.com/player.php/sid/XMTUwMTY4OTcxMg==/v.swf" allowFullScreen="true" quality="high" width="100%" height="100%" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>';
+                            break;
+                        case 'GoTIxX4bCfQ':
+                            vpath= '<embed src="http://player.youku.com/player.php/sid/XMTUwMTY5MjkxMg==/v.swf" allowFullScreen="true" quality="high" width="100%" height="100%" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>';
+                            break;
+                        case 'kwMc0pHkQ5s':
+                            vpath= '<embed src="http://player.youku.com/player.php/sid/XMTUwMTY5MTk2OA==/v.swf" allowFullScreen="true" quality="high" width="100%" height="100%" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>';
+                            break;
+                    }
                     a._$playerContainer = $(a.element).find(".player-container"),
-				    (a._$playerContainer.find("embed").length==0) && (a._$playerContainer.append('<embed src="http://player.youku.com/player.php/sid/XMTUwNjM0NTY3Ng==/v.swf" allowFullScreen="true" quality="high" width="100%" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>')), 
+				    (a._$playerContainer.find("embed").length==0) && (a._$playerContainer.append(vpath)),
                     a._$playerContainer.css({
                         display: "block"
                     }),
