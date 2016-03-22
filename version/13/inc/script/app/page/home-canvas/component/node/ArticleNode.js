@@ -116,7 +116,9 @@ define(["require", "exports", "./ForceDirectedNode", "lib/easelts/display/Bitmap
                     this._data.featured && (this._glow = new d("inc/image/glow.png", 345, 345, 0, 0, "50%", "50%"), this._glow.alpha = 0, this._glow.scaleX = this._glow.scaleY = this.width / 225, this._container.addChild(this._glow));
                     var a = b._categoryTexts[this._data.category.id];
                     if (!a) {
-                        var c = new j(this._data.category.pageTitle.toUpperCase(), k.circularTextSize, this._radius + k.circularTextOffset);
+                        var c = new j(""
+                            //this._data.category.pageTitle.toUpperCase()
+                            , k.circularTextSize, this._radius + k.circularTextOffset);
                         a = new d(c.cacheCanvas, c.cacheCanvas.width, c.cacheCanvas.height),
                             b._categoryTexts[this._data.category.id] = a
                     }
