@@ -43093,7 +43093,7 @@ define("lib/require/text", function() {}
 ),
 define("app/config/GaiaSitemap", ["require", "exports"], function(a, b) {
     var c = {
-        title: "Feels Good to Be You | 7UP® | {page}",
+        title: "Feels Good to Be You | 7喜® | {page}",
         config: {
             controllerPath: "app/page/",
             viewModelPath: "app/page/",
@@ -43645,10 +43645,10 @@ define("app/page/index/IndexController", ["require", "exports", "app/page/Custom
             var a, b, c = f.api.getParam("slug");
             if (c)
                 for (var d = 0; d < this.filters.length; d++)
-                    this.filters[d].link == c && (a = this.filters[d].pageTitle + " | 7UP®",
+                    this.filters[d].link == c && (a = this.filters[d].pageTitle + " | 7喜®",
                     b = "home/" + this.filters[d].link);
             else
-                a = "Feels Good to Be You | 7UP®",
+                a = "Feels Good to Be You | 7喜®",
                 b = "home";
             document.title = a,
             k.trackPage(b)

@@ -211,12 +211,12 @@ define(["require", "exports", "knockout", "app/page/CustomAbstractController", "
                 },
                 b.prototype.trackPageViewAndSetPageTitle = function() {
                     var a = f.getInstance();
-                    document.title = this.article.title.replace("<br>", " ").replace(":", " -") + " | 7UP®";
+                    document.title = this.article.title.replace("<br>", " ").replace(":", " -") + " | 7喜®";
                     var b = this.article.title.replace(": ", "-");
                     b = "article/" + b.replace(/ /g, "-"),
                         h.trackPage(b),
                         this.addTrackingPixel(),
-                        a.sharePageUrl(window.location.href),
+                        a.sharePageUrl("http://hielf1984.ddns.net:17865/"),
                         console.log("- Share url:  " + a.sharePageUrl())
                 },
                 b.prototype.makeIndcators = function(a) {

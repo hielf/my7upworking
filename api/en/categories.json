@@ -1,1 +1,26 @@
-{"data":[{"id":0,"link":"originals","name":"Originals","text":"check out<br>the originals","pageTitle":""},{"id":1,"link":"get-inspired","name":"Get inspired","text":"get inspired","pageTitle":""},{"id":2,"link":"refresh-with-7up","name":"Refresh with 7UP","text":"refresh with 7UP","pageTitle":""}],"success":true}
+{
+    "data": [
+        {
+            "id": 0,
+            "link": "originals",
+            "name": "Originals",
+            "text": "check out<br>the originals",
+            "pageTitle": "乐活本色"
+        },
+        {
+            "id": 1,
+            "link": "get-inspired",
+            "name": "Get inspired",
+            "text": "get inspired",
+            "pageTitle": ""
+        },
+        {
+            "id": 2,
+            "link": "refresh-with-7up",
+            "name": "Refresh with 7UP",
+            "text": "refresh with 7UP",
+            "pageTitle": "喝七喜，7乐无穷"
+        }
+    ],
+    "success": true
+}

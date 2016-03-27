@@ -95,7 +95,7 @@ define(["require", "exports", "../AbstractHomeController", "lib/easelts/display/
             this._mainContainer.addChild(this._scrollIndicator)) : (this._dragBar = new i,
             this._dragBar.setX("50%"),
             this._dragBar.setY("100% - 80"),
-            this._mainContainer.addChild(this._dragBar),
+            // this._mainContainer.addChild(this._dragBar),
             new H(this._dragBar.valueBinding,this._nodeContainer.scrollSpeedBinding,this._dragBar.valueBounds,this._nodeContainer.scrollSpeedBounds))
         }
         ,
