@@ -43459,11 +43459,11 @@ define("lib/temple/utils/ShareUtils", ["require", "exports", "lib/temple/utils/t
         }
         ,
         //a.facebookShareUrl = "https://www.facebook.com/sharer/sharer.php?p[url]={url}",
-        a.facebookShareUrl = "http://v.t.sina.com.cn/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url={url}",
+        a.facebookShareUrl = "http://v.t.sina.com.cn/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url=http://hielf1984.ddns.net:17865",
         // a.twitterShareUrl = "https://twitter.com/intent/tweet?url={url}&text={tweet}",
         a.twitterShareUrl = "weixin.html",
         // a.plusShareUrl = "https://plusone.google.com/_/+1/confirm?hl={language}&url={url}",
-        a.plusShareUrl = "http://v.t.qq.com/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url={url}",        a.linkedinShareUrl = "http://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}&summary={text}",
+        a.plusShareUrl = "http://v.t.qq.com/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url=http://hielf1984.ddns.net:17865",        
         a.linkedinShareUrl = "http://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}&summary={text}",
         a.pinterestShareUrl = "http://pinterest.com/pin/create/button/?url={url}&media={media}&description={text}",
         a
