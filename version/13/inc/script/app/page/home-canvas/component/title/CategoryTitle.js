@@ -108,7 +108,7 @@ define(["require", "exports", "../../../../../lib/easelts/display/Container", ".
         }
         ,
         b.prototype.applyPositionProperties = function() {
-			
+
 			console.log(this._scale);
             this.y = this._baseY,
             this.scaleX = this.scaleY = this._scale,

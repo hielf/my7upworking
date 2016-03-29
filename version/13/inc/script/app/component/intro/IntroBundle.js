@@ -79,8 +79,8 @@ define("app/component/intro/IntroController", ["require", "exports", "lib/temple
         ,
         b.prototype.initYoutubePlayer = function() {
             var a = this;
-			
-			
+
+
             e.getInstance().youTubeIframeAPIReady.then(function() {
                 a.youtubePlayer || (a.youtubePlayer = new YT.Player("youtube-player-" + a.eventNamespace.replace(".", ""),{
                     height: 390,
@@ -118,6 +118,12 @@ define("app/component/intro/IntroController", ["require", "exports", "lib/temple
                         case 'kwMc0pHkQ5s':
                             vpath= '<embed src="http://player.youku.com/player.php/sid/XMTUwMTY5MTk2OA==/v.swf" allowFullScreen="true" quality="high" width="100%" height="100%" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>';
                             break;
+                        case 'ZKM_1DQVfy4':
+                            vpath= '<embed src="http://player.youku.com/player.php/sid/XMTUxNDY3OTEyNA==/v.swf" allowFullScreen="true" quality="high" width="100%" height="100%" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>';
+                            break;
+                        case '00TQe_HqkdY':
+                            vpath= '<embed src="http://player.youku.com/player.php/sid/XMTUxNDY4MDY2MA==/v.swf" allowFullScreen="true" quality="high" width="100%" height="100%" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>';
+                            break
                     }
                     a._$playerContainer = $(a.element).find(".player-container"),
 				    (a._$playerContainer.find("embed").length==0) && (a._$playerContainer.append(vpath)),
@@ -182,7 +188,7 @@ define("app/component/intro/IntroController", ["require", "exports", "lib/temple
         }
         ,
         b.prototype.hideVideo = function() {
-           
+
             this._$content.css({
                 display: "block"
             }),

@@ -1,0 +1,23 @@
+<div class="lightbox-ghost">
+	<img src="" data-bind=" attr : { src : imageSRC() }, event : { load : getImageDimensions } "/>
+</div>
+
+<div class="lightbox-content">
+	<div class="close-btn" data-bind="tap: controller.closeLightBox.bind(controller)">
+		<span class="icon-cross"></span>
+	</div>
+
+	<div class="lightbox-clickarea" data-bind="tap: controller.closeLightBox.bind(controller)"></div>
+
+	<div class="lightbox-image-container" data-bind="css.visible: imageVisible">
+		<div class="lightbox-image" data-bind="style : { backgroundImage : 'url(' + imageSRC() + ')' }"></div>
+	</div>
+
+	<div class="video-wrapper" data-bind="css.visible: videoVisible">
+		<div class="video">
+			<div class="video-container">
+				<div class="video-player" data-bind="attr : {id : 'youtube-player-'+controller.eventNamespace.replace('.','')}"></div>
+			</div>
+		</div>
+	</div>
+</div>

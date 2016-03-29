@@ -482,7 +482,7 @@ hr,img {
 }
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize*/
 html {
-    font-family:sans-serif;
+    font-family:Heiti, "黑体", sans-serif;
     -ms-text-size-adjust:100%;
     -webkit-text-size-adjust:100%;
     font-size:10px;
@@ -655,7 +655,7 @@ td,th {
     box-sizing:border-box
 }
 body {
-    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:Heiti, "黑体", sans-serif;
     font-size:14px;
     line-height:1.428571429;
     color:#333
@@ -4176,7 +4176,7 @@ a.list-group-item-danger.active,a.list-group-item-danger.active:focus,a.list-gro
     filter:alpha(opacity=20)
 }
 .popover,.tooltip {
-    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:Heiti, "黑体", sans-serif;
     font-weight:400
 }
 .carousel-caption,.carousel-control {
@@ -5844,7 +5844,7 @@ button.close {
 }
 .component-intro .intro h1 {
     text-transform:uppercase;
-    font-family:Heiti, "黑体", sans-serif;;
+    font-family:Heiti, "黑体", sans-serif;
     font-weight:400;
     font-size:83px;
     font-size:6.91667rem;
@@ -6853,7 +6853,7 @@ button.close {
     text-align:center
 }
 .component-checkOutMore .articles .item .bottom h2 {
-    font-family:Heiti, "黑体", sans-serif;;
+    font-family:Heiti, "黑体", sans-serif;
     font-weight:400;
     font-size:17px;
     font-size:1.41667rem;
@@ -8741,7 +8741,7 @@ body,html {
     cursor:pointer
 }
 .language-list li a.active {
-    font-family:bentonsanscondbold
+    font-family:Heiti, "黑体", sans-serif;
 }
 html.browser-unsupported #page-footer,html.browser-unsupported #page-header .circle,html.browser-unsupported #page-header .social .social-icon {
     display:none
