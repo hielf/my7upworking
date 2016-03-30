@@ -101,7 +101,7 @@ define("app/component/gallery/GalleryController", ["require", "exports", "lib/te
                     if (c.length > 0) {
                         var d = c.attr("data-share-type"),
                             e = c.attr("data-photo");
-                        console.log(d + " - " + e)
+                        console.log(c.length + " - " + d + " - " + e)
                     } else this.toggleActive(a, b)
                 },
                 b.prototype.toggleActive = function(a, b) {

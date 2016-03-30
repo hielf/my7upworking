@@ -125,7 +125,7 @@ define(["require", "exports", "./ForceDirectedNode", "lib/easelts/display/Bitmap
                     this._categoryText = a.clone(),
                         this._categoryText.setGeomTransform(null, null, -30, 30, "50%", "50%"),
                         this._container.addChild(this._categoryText),
-                        this._labelText = new g(this._data.title.replace("<br>", "\n").toUpperCase(), k.articleTextSize + "px " + l.BENTON_SANS_BOOK, "#ffffff"),
+                        this._labelText = new g(this._data.title.replace("<br>", "\n"), k.articleTextSize + "px " + l.Heiti, "#ffffff"),
                         this._labelText.textAlign = g.TEXT_ALIGN_CENTER,
                         this._labelText.lineWidth = this.width,
                         this._labelText.alpha = 0,

@@ -43419,19 +43419,24 @@ define("lib/temple/utils/ShareUtils", ["require", "exports", "lib/temple/utils/t
         }
         ,
         a.shareFacebook = function(b) {
+          console.log("shareFacebook")
             "undefined" != typeof b && window.open(c.replaceVars(a.facebookShareUrl, {
                 url: encodeURIComponent(b)
             }), "sharer", "toolbar=0,status=0,width=626,height=436")
         }
         ,
         a.shareTwitter = function(b, d) {
-            "undefined" != typeof d && "undefined" != typeof b && window.open(c.replaceVars(a.twitterShareUrl, {
-                tweet: encodeURIComponent(d),
+          console.log("shareTwitter")
+          console.log(b + " - " + d + "-" + typeof d + "-" + typeof b + "-" + a.twitterShareUrl)
+            window.open(c.replaceVars(a.twitterShareUrl, {
+                tweet: encodeURIComponent("#feelsgoodtobeyou"),
                 url: encodeURIComponent(b)
             }), "sharer", "toolbar=0,status=0,width=575,height=370")
         }
         ,
         a.shareGooglePlus = function(b) {
+          console.log("shareGooglePlus")
+          console.log(b + " - " + d + "-" + typeof d + "-" + typeof b + "-" + a.plusShareUrl)
             "undefined" != typeof b && window.open(c.replaceVars(a.plusShareUrl, {
                 url: encodeURIComponent(b),
                 language: "en"
@@ -43463,7 +43468,7 @@ define("lib/temple/utils/ShareUtils", ["require", "exports", "lib/temple/utils/t
         // a.twitterShareUrl = "https://twitter.com/intent/tweet?url={url}&text={tweet}",
         a.twitterShareUrl = "weixin.html",
         // a.plusShareUrl = "https://plusone.google.com/_/+1/confirm?hl={language}&url={url}",
-        a.plusShareUrl = "http://v.t.qq.com/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url=http://hielf1984.ddns.net:17865",        
+        a.plusShareUrl = "http://v.t.qq.com/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url=http://hielf1984.ddns.net:17865",
         a.linkedinShareUrl = "http://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}&summary={text}",
         a.pinterestShareUrl = "http://pinterest.com/pin/create/button/?url={url}&media={media}&description={text}",
         a
@@ -43737,10 +43742,14 @@ define("app/page/index/IndexController", ["require", "exports", "app/page/Custom
         }
         ,
         b.prototype.changeLocale = function(a) {
-            j.inArrayField(i.getInstance().getProperty("locales"), "locale", a) ? (h.getInstance().setLocale(a),
-            this.setLocales(),
-            this.hideLanguageMenu()) : alert("Language not available")
-        }
+                    if(a=="en-EN"){
+                        window.location.href="http://www.my7up.com";
+                        return;
+                    }
+                    j.inArrayField(i.getInstance().getProperty("locales"), "locale", a) ? (h.getInstance().setLocale(a),
+                            this.setLocales(),
+                            this.hideLanguageMenu()) : alert("Language not available")
+                }
         ,
         b.prototype.destruct = function() {
             $(window).off("resize"),
