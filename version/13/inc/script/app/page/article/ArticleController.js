@@ -409,8 +409,12 @@ define(["require", "exports", "knockout", "app/page/CustomAbstractController", "
                         this.currentContentContainer.scrollTop() > 0 ? c.addClass("show") : c.removeClass("show"),
                             this.setScrollPos();
                         for (var e = function(b) {
-                                //"story" == b.componentName || "photos" == b.componentName || "location" == b.componentName || "article-video" == b.componentName || "article-gallery" == b.componentName || "article-text" == b.componentName ? a._$buttons.addClass("dark") : a._$buttons.removeClass("dark")
-                                "story" == b.componentName || "photos" == b.componentName|| "article-video" == b.componentName || "article-gallery" == b.componentName || "article-text" == b.componentName ? a._$buttons.addClass("dark") : a._$buttons.removeClass("dark")
+                                if (b.componentName != "location") {
+                                  // b.componentName = "gallery"
+                                  "story" == b.componentName || "photos" == b.componentName|| "article-video" == b.componentName || "article-gallery" == b.componentName || "article-text" == b.componentName ? a._$buttons.addClass("dark") : a._$buttons.removeClass("dark")
+                                }
+                                // console.log(b.componentName)
+                                // "story" == b.componentName || "photos" == b.componentName || "location" == b.componentName || "article-video" == b.componentName || "article-gallery" == b.componentName || "article-text" == b.componentName ? a._$buttons.addClass("dark") : a._$buttons.removeClass("dark")
                             },
                                  g = 0; g < this.viewModel.indicatorBullets().length; g++) {
                             var h = this.viewModel.indicatorBullets()[g],

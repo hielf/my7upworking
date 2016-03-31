@@ -43743,7 +43743,7 @@ define("app/page/index/IndexController", ["require", "exports", "app/page/Custom
         ,
         b.prototype.changeLocale = function(a) {
                     if(a=="en-EN"){
-                        window.location.href="http://www.my7up.com";
+                        window.location.href="http://hielf1984.ddns.net:17865";
                         return;
                     }
                     j.inArrayField(i.getInstance().getProperty("locales"), "locale", a) ? (h.getInstance().setLocale(a),
