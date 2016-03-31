@@ -17,7 +17,7 @@ function(a, b) {
         a.categoryTitleSize = 60,
         a.circularTextSize = 13,
         a.circularTextOffset = 14,
-        a.articleTextSize = 20,
+        a.articleTextSize = 18,
         a.articleTextOffset = 25,
         a.featuredTextSize = 12,
         a.featuredTextOffset = 20,

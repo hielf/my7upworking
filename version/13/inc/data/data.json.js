@@ -2,7 +2,7 @@
     {
         "categoryText": "CHECK OUT THE ORIGINALS",
         "category": "originals",
-        "icon": "http://hielf1984.ddns.net:17865/version/13/inc/data/inc/image/icons/icn-originals-active.svg",
+        "icon": "http://www.my7up.com.cn/version/13/inc/data/inc/image/icons/icn-originals-active.svg",
         "articles":
         [
             {
@@ -10,7 +10,7 @@
                 "guid": 3,
                 "slug": "loux-the-african-fashionista",
                 "title": "Loux The African Fashionista",
-                "smallImage": "inc/data/image/loux/thumbnail.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/thumbnail.jpg*/,
+                "smallImage": "inc/data/image/loux/thumbnail.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/thumbnail.jpg*/,
                 "featured": true,
                 "components": [
                     {
@@ -18,8 +18,8 @@
                         "type": "video",
                         "videoID": "3S0Zko0Cjy8",
                         "categoryText": "CHECK OUT THE ORIGINALS",
-                        "icon": "http://hielf1984.ddns.net:17865/version/13/inc/data/inc/image/icons/icn-originals-active.svg",
-                        "headerImage": "inc/data/image/loux/header.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/header.jpg*/,
+                        "icon": "http://www.my7up.com.cn/version/13/inc/data/inc/image/icons/icn-originals-active.svg",
+                        "headerImage": "inc/data/image/loux/header.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/header.jpg*/,
                         "title": "Loux The African Fashionista",
                         "introCopy": "<p>\"MY GRANDFATHER ONCE TOLD ME: MY SON,<br>FASHION IS WHAT YOU ARE TAUGHT<br>WHEN YOU DON'T KNOW YET WHO YOU ARE,<br>SO ALWAYS LOOK WELL-DRESSED.\"</p>"
                     },
@@ -30,63 +30,63 @@
                         "dataUrl": "inc/data/image/loux/photo/",
                         "images": [
                             {
-                                "url": "1-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/1-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
+                                "url": "1-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/1-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "2-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/2-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
+                                "url": "2-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/2-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "3-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/3-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
+                                "url": "3-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/3-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "4-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/4-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
+                                "url": "4-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/4-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "5-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/5-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
+                                "url": "5-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/5-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "6-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/6-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
+                                "url": "6-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/6-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "7-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/7-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
+                                "url": "7-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/7-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "8-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/8-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
+                                "url": "8-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/8-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "9-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/9-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
+                                "url": "9-Photos-by-Harness-and-Lukas-Amakali.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/9-Photos-by-Harness-and-Lukas-Amakali.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "01.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/01.jpg*/,
+                                "url": "01.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/01.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "02.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/02.jpg*/,
+                                "url": "02.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/02.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "03.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/03.jpg*/,
+                                "url": "03.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/03.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "04.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/04.jpg*/,
+                                "url": "04.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/04.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "05.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/05.jpg*/,
+                                "url": "05.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/05.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "06.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/06.jpg*/,
+                                "url": "06.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/06.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             }
                         ]
@@ -100,20 +100,20 @@
                         "question4" : "<p class='bold'>When you’re looking for vintage<br>clothes in the market, what is it<br>that catches your eye?</p><p>LOUX - If you compare a pick-up truck from<br>1979 and a brand new truck, the new one<br>always breaks more easily. It’s the same<br>with clothes.<br>At those markets, I don’t even look at the<br>fabric because I know the clothes are<br>already high quality. But I also love finding<br>blazers, club ties and accessories like<br>pocket squares, cufflinks and bowties.</p>",
                         "question5" : "<p class='bold'>What does ‘Feels Good To Be You'<br>mean to you?</p><p>LOUX - It’s the thing that separates<br>dreamers from entrepreneurs. It means<br>continuing to inspire others through<br>creativity while staying positive in<br>action and thought.</p>",
                         "quote": "\"It means continuing to inspire others through creativity while staying positive in action and thought.\"",
-                        "image1": "inc/data/image/loux/story/loux-story-01.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/story/loux-story-01.jpg*/,
-                        "image2": "inc/data/image/loux/story/loux-story-02.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/story/loux-story-02.jpg*/,
-                        "image3": "inc/data/image/loux/story/loux-story-03.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/story/loux-story-03.jpg*/
+                        "image1": "inc/data/image/loux/story/loux-story-01.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/story/loux-story-01.jpg*/,
+                        "image2": "inc/data/image/loux/story/loux-story-02.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/story/loux-story-02.jpg*/,
+                        "image3": "inc/data/image/loux/story/loux-story-03.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/story/loux-story-03.jpg*/
                     },
                     {
                         "componentName": "story-gallery",
                         "title": "Joe's Beerhouse",
                         "copy": "<p>Loux's favorite spot is Joe's Beerhouse in his hometown of Windhoek, Namibia. So many different rooms! Joe's Beerhouse is not one to miss!<br>The food is tasty, you get lots of it, and the people who work there<br>are great! If you're looking for a delicious meal that fills you<br>to your very core, Joe's Beerhouse is a great one.</p>",
                         "images": [
-                            "inc/data/image/loux/location/Joes-Beer-House-4.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/location/Joes-Beer-House-4.jpg*/,
-                            "inc/data/image/loux/location/Joes-Beer-House-5.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/location/Joes-Beer-House-5.jpg*/,
-                            "inc/data/image/loux/location/Joes-Beer-House-1.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/location/Joes-Beer-House-1.jpg*/,
-                            "inc/data/image/loux/location/Joes-Beer-House-3.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/location/Joes-Beer-House-3.jpg*/,
-                            "inc/data/image/loux/location/Joes-Beer-House-6.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/location/Joes-Beer-House-6.jpg*/
+                            "inc/data/image/loux/location/Joes-Beer-House-4.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/location/Joes-Beer-House-4.jpg*/,
+                            "inc/data/image/loux/location/Joes-Beer-House-5.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/location/Joes-Beer-House-5.jpg*/,
+                            "inc/data/image/loux/location/Joes-Beer-House-1.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/location/Joes-Beer-House-1.jpg*/,
+                            "inc/data/image/loux/location/Joes-Beer-House-3.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/location/Joes-Beer-House-3.jpg*/,
+                            "inc/data/image/loux/location/Joes-Beer-House-6.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/location/Joes-Beer-House-6.jpg*/
                         ]
                     },
                     {
@@ -126,16 +126,16 @@
                         "componentName": "polaroid",
                         "copy": "<p>Loux and friends put together their best street style.</p>",
                         "photos": [
-                            "inc/data/image/loux/polaroid/01.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/polaroid/01.jpg*/,
-                            "inc/data/image/loux/polaroid/02.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/polaroid/02.jpg*/,
-                            "inc/data/image/loux/polaroid/03.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/polaroid/03.jpg*/,
-                            "inc/data/image/loux/polaroid/04.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/polaroid/04.jpg*/,
-                            "inc/data/image/loux/polaroid/05.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/polaroid/05.jpg*/,
-                            "inc/data/image/loux/polaroid/06.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/polaroid/06.jpg*/,
-                            "inc/data/image/loux/polaroid/07.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/polaroid/07.jpg*/,
-                            "inc/data/image/loux/polaroid/08.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/polaroid/08.jpg*/,
-                            "inc/data/image/loux/polaroid/09.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/polaroid/09.jpg*/,
-                            "inc/data/image/loux/polaroid/10.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/loux/polaroid/10.jpg*/
+                            "inc/data/image/loux/polaroid/01.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/polaroid/01.jpg*/,
+                            "inc/data/image/loux/polaroid/02.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/polaroid/02.jpg*/,
+                            "inc/data/image/loux/polaroid/03.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/polaroid/03.jpg*/,
+                            "inc/data/image/loux/polaroid/04.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/polaroid/04.jpg*/,
+                            "inc/data/image/loux/polaroid/05.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/polaroid/05.jpg*/,
+                            "inc/data/image/loux/polaroid/06.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/polaroid/06.jpg*/,
+                            "inc/data/image/loux/polaroid/07.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/polaroid/07.jpg*/,
+                            "inc/data/image/loux/polaroid/08.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/polaroid/08.jpg*/,
+                            "inc/data/image/loux/polaroid/09.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/polaroid/09.jpg*/,
+                            "inc/data/image/loux/polaroid/10.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/loux/polaroid/10.jpg*/
                         ]
                     },
                     {
@@ -160,7 +160,7 @@
                 "guid": 0,
                 "slug": "dong-tuk-tuk-thai-king",
                 "title": "Dong<br>Tuk Tuk Thai King",
-                "smallImage": "inc/data/image/dong/thumbnail.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/thumbnail.jpg*/,
+                "smallImage": "inc/data/image/dong/thumbnail.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/thumbnail.jpg*/,
                 "featured": false,
                 "components": [
                     {
@@ -168,8 +168,8 @@
                         "type": "video",
                         "videoID": "uq87IUlHD88",
                         "categoryText": "CHECK OUT THE ORIGINALS",
-                        "icon": "http://hielf1984.ddns.net:17865/version/13/inc/data/inc/image/icons/icn-originals-active.svg",
-                        "headerImage": "inc/data/image/dong/header.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/header.jpg*/,
+                        "icon": "http://www.my7up.com.cn/version/13/inc/data/inc/image/icons/icn-originals-active.svg",
+                        "headerImage": "inc/data/image/dong/header.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/header.jpg*/,
                         "title": "Dong<br>Tuk Tuk Thai King",
                         "introCopy": "<p>\"HE JUST WANTS PEOPLE TO EAT IT<br>AS IT SHOULD BE EATEN;<br>HE IS TOTALLY PASSIONATE ABOUT THAT.\"</p>"
                     },
@@ -180,35 +180,35 @@
                         "dataUrl": "inc/data/image/dong/photo/",
                         "images": [
                             {
-                                "url": "1-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/1-Photos-by-Dong-and-Sarah.jpg*/,
+                                "url": "1-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/1-Photos-by-Dong-and-Sarah.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "2-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/2-Photos-by-Dong-and-Sarah.jpg*/,
+                                "url": "2-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/2-Photos-by-Dong-and-Sarah.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "4-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/4-Photos-by-Dong-and-Sarah.jpg*/,
+                                "url": "4-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/4-Photos-by-Dong-and-Sarah.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "5-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/5-Photos-by-Dong-and-Sarah.jpg*/,
+                                "url": "5-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/5-Photos-by-Dong-and-Sarah.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "7-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/7-Photos-by-Dong-and-Sarah.jpg*/,
+                                "url": "7-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/7-Photos-by-Dong-and-Sarah.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "6-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/6-Photos-by-Dong-and-Sarah.jpg*/,
+                                "url": "6-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/6-Photos-by-Dong-and-Sarah.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "3-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/3-Photos-by-Dong-and-Sarah.jpg*/,
+                                "url": "3-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/3-Photos-by-Dong-and-Sarah.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "8-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/8-Photos-by-Dong-and-Sarah.jpg*/,
+                                "url": "8-Photos-by-Dong-and-Sarah.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/8-Photos-by-Dong-and-Sarah.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             }
                         ]
@@ -222,20 +222,20 @@
                         "question4" : "<p class='bold'>Your dishes have some interesting<br>names…where do they come from?</p><p>DONG - Here’s one example. I was in Leeds<br>last year making a slow-cooked beef curry<br>and I didn’t know how to describe it.<br>So I went to this school next door and said,<br>\"I'm trying to write the menu.<br>It’s ‘Beef Cooked Long-Time Curry,'\"<br>and they thought it was hilarious.<br>They convinced me to keep the name,<br>instead of changing it to ‘slow-cooked beef'<br>because it’s much more funny.</p>",
                         "question5" : "<p class='bold'>How does Dong embody<br>‘Feels Good to be You’?</p><p>SARAH - All Thai people have a lot of<br>initiative. They say everything has to<br>have an element of ‘sunuk,’ which is<br>a Thai concept about getting<br>satisfaction and pleasure from what<br>you do. Dong wasn’t happy with his<br>job before Bang Wok, so he had to<br>do something in his life that had an<br>element of fun and made him happy.</p>",
                         "quote": "\"'Sunuk' is a Thai concept about getting satisfaction and pleasure from what you do.\"",
-                        "image1": "inc/data/image/dong/story/dong-story-01.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/story/dong-story-01.jpg*/,
-                        "image2": "inc/data/image/dong/story/dong-story-02.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/story/dong-story-02.jpg*/,
-                        "image3": "inc/data/image/dong/story/dong-story-03.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/story/dong-story-03.jpg*/
+                        "image1": "inc/data/image/dong/story/dong-story-01.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/story/dong-story-01.jpg*/,
+                        "image2": "inc/data/image/dong/story/dong-story-02.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/story/dong-story-02.jpg*/,
+                        "image3": "inc/data/image/dong/story/dong-story-03.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/story/dong-story-03.jpg*/
                     },
                     {
                         "componentName": "story-gallery",
                         "title": "Bone Daddies Ramen Bar",
                         "copy": "<p>Bone Daddies in London, England is not your typical ramen bar.<br>That is why it is Dong's favorite spot. There is always a twist added<br>just to spice things up! The spot has a great mixture of modern art<br>and homey feel. It ensures a fun surrounding as you tuck into<br>your hearty bowl of noodles.</p>",
                         "images": [
-                            "inc/data/image/dong/location/Bone-Daddies-1.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/location/Bone-Daddies-1.jpg*/,
-                            "inc/data/image/dong/location/Bone-Daddies-3.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/location/Bone-Daddies-3.jpg*/,
-                            "inc/data/image/dong/location/Bone-Daddies-4.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/location/Bone-Daddies-4.jpg*/,
-                            "inc/data/image/dong/location/Bone-Daddies-5.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/location/Bone-Daddies-5.jpg*/,
-                            "inc/data/image/dong/location/Bone-Daddies-6.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/location/Bone-Daddies-6.jpg*/
+                            "inc/data/image/dong/location/Bone-Daddies-1.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/location/Bone-Daddies-1.jpg*/,
+                            "inc/data/image/dong/location/Bone-Daddies-3.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/location/Bone-Daddies-3.jpg*/,
+                            "inc/data/image/dong/location/Bone-Daddies-4.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/location/Bone-Daddies-4.jpg*/,
+                            "inc/data/image/dong/location/Bone-Daddies-5.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/location/Bone-Daddies-5.jpg*/,
+                            "inc/data/image/dong/location/Bone-Daddies-6.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/location/Bone-Daddies-6.jpg*/
                         ]
                     },
                     {
@@ -248,14 +248,14 @@
                         "componentName": "polaroid",
                         "copy": "<p>Dong and his family out in London!</p>",
                         "photos": [
-                            "inc/data/image/dong/polaroid/01.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/polaroid/01.jpg*/,
-                            "inc/data/image/dong/polaroid/02.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/polaroid/02.jpg*/,
-                            "inc/data/image/dong/polaroid/03.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/polaroid/03.jpg*/,
-                            "inc/data/image/dong/polaroid/04.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/polaroid/04.jpg*/,
-                            "inc/data/image/dong/polaroid/05.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/polaroid/05.jpg*/,
-                            "inc/data/image/dong/polaroid/06.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/polaroid/06.jpg*/,
-                            "inc/data/image/dong/polaroid/07.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/polaroid/07.jpg*/,
-                            "inc/data/image/dong/polaroid/08.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dong/polaroid/08.jpg*/
+                            "inc/data/image/dong/polaroid/01.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/polaroid/01.jpg*/,
+                            "inc/data/image/dong/polaroid/02.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/polaroid/02.jpg*/,
+                            "inc/data/image/dong/polaroid/03.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/polaroid/03.jpg*/,
+                            "inc/data/image/dong/polaroid/04.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/polaroid/04.jpg*/,
+                            "inc/data/image/dong/polaroid/05.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/polaroid/05.jpg*/,
+                            "inc/data/image/dong/polaroid/06.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/polaroid/06.jpg*/,
+                            "inc/data/image/dong/polaroid/07.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/polaroid/07.jpg*/,
+                            "inc/data/image/dong/polaroid/08.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dong/polaroid/08.jpg*/
                         ]
                     },
                     {
@@ -280,7 +280,7 @@
                 "guid": 4,
                 "slug": "the-dihzahyners-painting-up-beirut",
                 "title": "The Dihzahyners<br>Painting Up Beirut",
-                "smallImage": "inc/data/image/dihzahyners/thumbnail.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/thumbnail.jpg*/,
+                "smallImage": "inc/data/image/dihzahyners/thumbnail.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/thumbnail.jpg*/,
                 "featured": false,
                 "components": [
                     {
@@ -288,8 +288,8 @@
                         "type": "video",
                         "videoID": "GoTIxX4bCfQ",
                         "categoryText": "CHECK OUT THE ORIGINALS",
-                        "icon": "http://hielf1984.ddns.net:17865/version/13/inc/data/inc/image/icons/icn-originals-active.svg",
-                        "headerImage": "inc/data/image/dihzahyners/header.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/header.jpg*/,
+                        "icon": "http://www.my7up.com.cn/version/13/inc/data/inc/image/icons/icn-originals-active.svg",
+                        "headerImage": "inc/data/image/dihzahyners/header.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/header.jpg*/,
                         "title": "The Dihzahyners<br>Painting Up Beirut ",
                         "introCopy": "<p>\"WE CAN ADD SOME COLOR, SOME LIFE<br>THROUGH OUR CREATIVITY.\"</p>"
                     },
@@ -300,51 +300,51 @@
                         "dataUrl": "inc/data/image/dihzahyners/photo/",
                         "images": [
                             {
-                                "url": "09.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/09.jpg*/,
+                                "url": "09.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/09.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "02.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/02.jpg*/,
+                                "url": "02.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/02.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "03.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/03.jpg*/,
+                                "url": "03.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/03.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "04.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/04.jpg*/,
+                                "url": "04.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/04.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "06.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/06.jpg*/,
+                                "url": "06.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/06.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "07.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/07.jpg*/,
+                                "url": "07.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/07.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "08.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/08.jpg*/,
+                                "url": "08.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/08.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "01.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/01.jpg*/,
+                                "url": "01.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/01.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "10.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/10.jpg*/,
+                                "url": "10.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/10.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "11.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/11.jpg*/,
+                                "url": "11.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/11.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "12.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/12.jpg*/,
+                                "url": "12.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/12.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "13.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/13.jpg*/,
+                                "url": "13.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/13.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             }
                         ]
@@ -358,21 +358,21 @@
                         "question4" : "<p class='bold'>Are there any funny stories<br>from one of your projects?</p><p>JUBRAN - There was this old lady shouting<br>at us once when we were painting. But it<br>was the same lady that I had seen the<br>week before when I’d told her exactly<br>what we were going to do. At the time,<br>she was happy and approved it. But then<br>she forgot! When she finally recognised<br>me and remembered our conversation,<br>she smiled and said, ‘Keep up the<br>good work!’</p>",
                         "question5" : "<p class='bold'>In the future, will the<br>Dihzahyners be doing<br>bigger projects?</p><p>JURBAN - Yes! If we have the right<br>equipment and tools. My dream is<br>to do an entire neighbourhood.<br>We’ve done stairs, walls and a house;<br>I want to do things like the favela<br>paintings in Brazil.</p>",
                         "quote": "\"As soon as they realize that we’re there to bring<br>the community together, they get excited.\"",
-                        "image1": "inc/data/image/dihzahyners/story/story-01.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/story/story-01.jpg*/,
-                        "image2": "inc/data/image/dihzahyners/story/story-02.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/story/story-02.jpg*/,
-                        "image3": "inc/data/image/dihzahyners/story/story-03.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/story/story-03.jpg*/
+                        "image1": "inc/data/image/dihzahyners/story/story-01.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/story/story-01.jpg*/,
+                        "image2": "inc/data/image/dihzahyners/story/story-02.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/story/story-02.jpg*/,
+                        "image3": "inc/data/image/dihzahyners/story/story-03.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/story/story-03.jpg*/
                     },
                     {
                         "componentName": "story-gallery",
                         "title": "Enab Beirut",
                         "copy": "<p>Enab Beirut is one of the Dihzahyners' favorite spots.<br>An incredible Lebanese spot in the heart of Beirut, Lebanon.<br>The spot is funky and well known, mixing traditional<br>Lebanese food and music with a very youthful atmosphere.</p>",
                         "images": [
-                            "inc/data/image/dihzahyners/location/location-01.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/location/location-01.jpg*/,
-                            "inc/data/image/dihzahyners/location/location-02.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/location/location-02.jpg*/,
-                            "inc/data/image/dihzahyners/location/location-03.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/location/location-03.jpg*/,
-                            "inc/data/image/dihzahyners/location/location-04.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/location/location-04.jpg*/,
-                            "inc/data/image/dihzahyners/location/location-05.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/location/location-05.jpg*/,
-                            "inc/data/image/dihzahyners/location/location-06.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/location/location-06.jpg*/
+                            "inc/data/image/dihzahyners/location/location-01.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/location/location-01.jpg*/,
+                            "inc/data/image/dihzahyners/location/location-02.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/location/location-02.jpg*/,
+                            "inc/data/image/dihzahyners/location/location-03.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/location/location-03.jpg*/,
+                            "inc/data/image/dihzahyners/location/location-04.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/location/location-04.jpg*/,
+                            "inc/data/image/dihzahyners/location/location-05.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/location/location-05.jpg*/,
+                            "inc/data/image/dihzahyners/location/location-06.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/location/location-06.jpg*/
                         ]
                     },
                     {
@@ -385,16 +385,16 @@
                         "componentName": "polaroid",
                         "copy": "<p>The Dihzahyners share their street art inspiration from around Beirut.</p>",
                         "photos": [
-                            "inc/data/image/dihzahyners/polaroid/01.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/polaroid/01.jpg*/,
-                            "inc/data/image/dihzahyners/polaroid/02.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/polaroid/02.jpg*/,
-                            "inc/data/image/dihzahyners/polaroid/03.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/polaroid/03.jpg*/,
-                            "inc/data/image/dihzahyners/polaroid/04.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/polaroid/04.jpg*/,
-                            "inc/data/image/dihzahyners/polaroid/05.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/polaroid/05.jpg*/,
-                            "inc/data/image/dihzahyners/polaroid/06.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/polaroid/06.jpg*/,
-                            "inc/data/image/dihzahyners/polaroid/07.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/polaroid/07.jpg*/,
-                            "inc/data/image/dihzahyners/polaroid/08.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/polaroid/08.jpg*/,
-                            "inc/data/image/dihzahyners/polaroid/09.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/polaroid/09.jpg*/,
-                            "inc/data/image/dihzahyners/polaroid/10.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/dihzahyners/polaroid/10.jpg*/
+                            "inc/data/image/dihzahyners/polaroid/01.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/polaroid/01.jpg*/,
+                            "inc/data/image/dihzahyners/polaroid/02.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/polaroid/02.jpg*/,
+                            "inc/data/image/dihzahyners/polaroid/03.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/polaroid/03.jpg*/,
+                            "inc/data/image/dihzahyners/polaroid/04.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/polaroid/04.jpg*/,
+                            "inc/data/image/dihzahyners/polaroid/05.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/polaroid/05.jpg*/,
+                            "inc/data/image/dihzahyners/polaroid/06.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/polaroid/06.jpg*/,
+                            "inc/data/image/dihzahyners/polaroid/07.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/polaroid/07.jpg*/,
+                            "inc/data/image/dihzahyners/polaroid/08.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/polaroid/08.jpg*/,
+                            "inc/data/image/dihzahyners/polaroid/09.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/polaroid/09.jpg*/,
+                            "inc/data/image/dihzahyners/polaroid/10.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/dihzahyners/polaroid/10.jpg*/
                         ]
                     },
                     {
@@ -419,7 +419,7 @@
                 "guid": 5,
                 "slug": "raul-a-weapon-of-mass-instruction",
                 "title": "Raul<br>A Weapon of Mass Instruction",
-                "smallImage": "inc/data/image/raul/thumbnail.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/raul/thumbnail.jpg*/,
+                "smallImage": "inc/data/image/raul/thumbnail.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/raul/thumbnail.jpg*/,
                 "featured": false,
                 "components": [
                     {
@@ -427,8 +427,8 @@
                         "type": "video",
                         "videoID": "kwMc0pHkQ5s",
                         "categoryText": "CHECK OUT THE ORIGINALS",
-                        "icon": "http://hielf1984.ddns.net:17865/version/13/inc/data/inc/image/icons/icn-originals-active.svg",
-                        "headerImage": "inc/data/image/raul/header.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/raul/header.jpg*/,
+                        "icon": "http://www.my7up.com.cn/version/13/inc/data/inc/image/icons/icn-originals-active.svg",
+                        "headerImage": "inc/data/image/raul/header.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/raul/header.jpg*/,
                         "title": "Raul<br>A Weapon of Mass Instruction",
                         "introCopy": "<p>RAUL IS ONE OF THOSE CRAZY, GREAT PEOPLE NEEDED IN SOCIETY.</p>"
                     },
@@ -439,35 +439,35 @@
                         "dataUrl": "inc/data/image/raul/photo/",
                         "images": [
                             {
-                                "url": "01.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/01.jpg*/,
+                                "url": "01.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/01.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "02.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/02.jpg*/,
+                                "url": "02.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/02.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "03.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/03.jpg*/,
+                                "url": "03.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/03.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "04.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/04.jpg*/,
+                                "url": "04.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/04.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "05.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/05.jpg*/,
+                                "url": "05.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/05.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "06.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/06.jpg*/,
+                                "url": "06.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/06.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "07.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/07.jpg*/,
+                                "url": "07.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/07.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "08.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/08.jpg*/,
+                                "url": "08.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/08.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             }
                         ]
@@ -481,9 +481,9 @@
                         "question4" : "<p class='bold'>What’s your favourite book?</p><p>RAUL - My favourite books are all the books<br>that are truthful, original, and have been<br>proven right with time such as Aldous<br>Huxley’s Brave New World. It came out in<br>1932 and 80 years later he’s<br>demonstrating that what he wrote was true.</p>",
                         "question5" : "<p class='bold'>What do you think we can learn<br>from Raul’s approach to life?</p><p>SIMON - Courage. It’s a neutral quality<br>when it comes to morals but it’ll take you a<br>long way, and it’ll make you think if you’re<br>serious about what you want.</p>",
                         "quote": "\"I'm just trying to improve my society.\"",
-                        "image1": "inc/data/image/raul/story/raul-story-01.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/raul/story/raul-story-01.jpg*/,
-                        "image2": "inc/data/image/raul/story/raul-story-02.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/raul/story/raul-story-02.jpg*/,
-                        "image3": "inc/data/image/raul/story/raul-story-03.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/raul/story/raul-story-03.jpg*/
+                        "image1": "inc/data/image/raul/story/raul-story-01.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/raul/story/raul-story-01.jpg*/,
+                        "image2": "inc/data/image/raul/story/raul-story-02.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/raul/story/raul-story-02.jpg*/,
+                        "image3": "inc/data/image/raul/story/raul-story-03.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/raul/story/raul-story-03.jpg*/
                     },
                     {
                         "componentName": "checkOutMore",
@@ -507,7 +507,7 @@
     {
         "categoryText": "REFRESH WITH 7UP",
         "category": "refresh-with-7up",
-        "icon": "http://hielf1984.ddns.net:17865/version/13/inc/data/inc/image/icons/icn-refresh-active.svg",
+        "icon": "http://www.my7up.com.cn/version/13/inc/data/inc/image/icons/icn-refresh-active.svg",
         "articles":
         [
             {
@@ -515,7 +515,7 @@
                 "guid": 6,
                 "slug": "magda-sayeg",
                 "title": "Magda Sayeg<br>Urban Knitter",
-                "smallImage": "inc/data/image/magda/thumbnail.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/magda/thumbnail.jpg*/,
+                "smallImage": "inc/data/image/magda/thumbnail.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/magda/thumbnail.jpg*/,
                 "featured": false,
                 "components": [
                     {
@@ -523,8 +523,8 @@
                         "type": "video",
                         "videoID": "ZKM_1DQVfy4",
                         "categoryText": "REFRESH WITH 7UP",
-                        "icon": "http://hielf1984.ddns.net:17865/version/13/inc/data/inc/image/icons/icn-refresh-active.svg",
-                        "headerImage": "inc/data/image/magda/header.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/magda/header.jpg*/,
+                        "icon": "http://www.my7up.com.cn/version/13/inc/data/inc/image/icons/icn-refresh-active.svg",
+                        "headerImage": "inc/data/image/magda/header.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/magda/header.jpg*/,
                         "title": "MAGDA SAYEG<br>Urban Knitter",
                         "introCopy": "<p>\"IT'S GOOD TO AWAKEN YOUR SENSES… IT FORCES PEOPLE TO ENGAGE WITH THEIR ENVIRONMENT.\"</p>"
                     },
@@ -556,7 +556,7 @@
                 "guid": 1,
                 "slug": "HOMbRE_McSTeeZ-Animator",
                 "title": "HOMbRE_McSTeeZ<br>Animator",
-                "smallImage": "inc/data/image/mcsteez/thumbnail.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/mcsteez/thumbnail.jpg*/,
+                "smallImage": "inc/data/image/mcsteez/thumbnail.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/mcsteez/thumbnail.jpg*/,
                 "featured": false,
                 "components": [
                     {
@@ -564,8 +564,8 @@
                         "type": "video",
                         "videoID": "00TQe_HqkdY",
                         "categoryText": "REFRESH WITH 7UP",
-                        "icon": "http://hielf1984.ddns.net:17865/version/13/inc/data/inc/image/icons/icn-refresh-active.svg",
-                        "headerImage": "inc/data/image/mcsteez/header.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/mcsteez/header.jpg*/,
+                        "icon": "http://www.my7up.com.cn/version/13/inc/data/inc/image/icons/icn-refresh-active.svg",
+                        "headerImage": "inc/data/image/mcsteez/header.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/mcsteez/header.jpg*/,
                         "title": "HOMbRE_McSTeeZ<br>Animator",
                         "introCopy": "<p>\"IT'S BASICALLY DRAWING,<br>HAVING FUN,<br>MAKING MYSELF LAUGH.\"</p>"
                     },
@@ -597,7 +597,7 @@
     {
         "categoryText": "GET INSPIRED",
         "category": "get-inspired",
-        "icon": "http://hielf1984.ddns.net:17865/version/13/inc/data/inc/image/icons/icn-getinspired-active.svg",
+        "icon": "http://www.my7up.com.cn/version/13/inc/data/inc/image/icons/icn-getinspired-active.svg",
         "articles":
         [
             {
@@ -605,7 +605,7 @@
                 "guid": 2,
                 "slug": "refresh-london",
                 "title": "Refresh London",
-                "smallImage": "inc/data/image/refresh-london/thumbnail.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/refresh-london/thumbnail.jpg*/,
+                "smallImage": "inc/data/image/refresh-london/thumbnail.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/refresh-london/thumbnail.jpg*/,
                 "featured": false,
                 "components": [
                     {
@@ -613,8 +613,8 @@
                         "type": "video",
                         "videoID": "h2_WfvohOtU",
                         "categoryText": "GET INSPIRED",
-                        "icon": "http://hielf1984.ddns.net:17865/version/13/inc/data/inc/image/icons/icn-refresh-active.svg",
-                        "headerImage": "inc/data/image/refresh-london/header.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/inc/data/image/refresh-london/header.jpg*/,
+                        "icon": "http://www.my7up.com.cn/version/13/inc/data/inc/image/icons/icn-refresh-active.svg",
+                        "headerImage": "inc/data/image/refresh-london/header.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/inc/data/image/refresh-london/header.jpg*/,
                         "title": "Refresh London",
                         "introCopy": "<p>\"IT'S CRAZINESS, IT'S MADNESS,<br>IT'S STUFF PEOPLE HAVE NEVER DONE BEFORE.\"</p>"
                     },
@@ -631,39 +631,39 @@
                         "dataUrl": "inc/data/image/refresh-london/photo/",
                         "images": [
                             {
-                                "url": "01.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/01.jpg*/,
+                                "url": "01.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/01.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "02.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/02.jpg*/,
+                                "url": "02.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/02.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "03.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/03.jpg*/,
+                                "url": "03.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/03.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "04.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/04.jpg*/,
+                                "url": "04.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/04.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "05.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/05.jpg*/,
+                                "url": "05.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/05.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "06.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/06.jpg*/,
+                                "url": "06.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/06.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "07.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/07.jpg*/,
+                                "url": "07.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/07.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "08.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/08.jpg*/,
+                                "url": "08.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/08.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             },
                             {
-                                "url": "09.jpg"/*tpa=http://hielf1984.ddns.net:17865/version/13/inc/data/09.jpg*/,
+                                "url": "09.jpg"/*tpa=http://www.my7up.com.cn/version/13/inc/data/09.jpg*/,
                                 "shareText": "#feelsgoodtobeyou"
                             }
                         ]

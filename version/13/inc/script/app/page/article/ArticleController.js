@@ -216,7 +216,7 @@ define(["require", "exports", "knockout", "app/page/CustomAbstractController", "
                     b = "article/" + b.replace(/ /g, "-"),
                         h.trackPage(b),
                         this.addTrackingPixel(),
-                        a.sharePageUrl("http://hielf1984.ddns.net:17865/"),
+                        a.sharePageUrl("http://www.my7up.com.cn/"),
                         console.log("- Share url:  " + a.sharePageUrl())
                 },
                 b.prototype.makeIndcators = function(a) {

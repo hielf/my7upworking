@@ -33,7 +33,7 @@ define("app/component/gallery/GalleryController", ["require", "exports", "lib/te
                              b = e.api.getParam("category"), c = e.api.getParam("title"), f = 0, g = _baseurl + "share/?url=" + b + "/article/" + c + "&img=", h = 0; h < this.articleData.images.length; h++) {
                         this.articleData.images[h] = {
                             url: this.articleData.images[h],
-                            shareUrl: "http://hielf1984.ddns.net:17865/"//g + this.articleData.images[h]
+                            shareUrl: "http://www.my7up.com.cn/"//g + this.articleData.images[h]
                         };
                         var i = new Image;
                         i.onload = function() {++f,

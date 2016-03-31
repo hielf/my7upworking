@@ -125,10 +125,12 @@ define(["require", "exports", "./ForceDirectedNode", "lib/easelts/display/Bitmap
                     this._categoryText = a.clone(),
                         this._categoryText.setGeomTransform(null, null, -30, 30, "50%", "50%"),
                         this._container.addChild(this._categoryText),
-                        this._labelText = new g(this._data.title.replace("<br>", "\n"), k.articleTextSize + "px " + l.Heiti, "#ffffff"),
+                        this._labelText = new g(this._data.title.replace("<br>", "\n"), k.articleTextSize + "px " + "Microsoft YaHei", "#ffffff"),
                         this._labelText.textAlign = g.TEXT_ALIGN_CENTER,
                         this._labelText.lineWidth = this.width,
                         this._labelText.alpha = 0,
+                        // this._labelText.height = 10,
+                        console.log(this._labelText);
                         this._container.addChild(this._labelText);
                     var e = this._labelText.getExactSize();
                     if (this._labelText.cache( - this._radius - 5, 0, this.width + 10, e.height + 10), m.getInstance().previewMode() && void 0 != this._data.status && p.getInstance().getProperty("authorized")) {
@@ -143,7 +145,7 @@ define(["require", "exports", "./ForceDirectedNode", "lib/easelts/display/Bitmap
                             case 2:
                                 h = "REJECTED"
                         }
-                        this._statusText = new g(h, k.featuredTextSize + "px " + l.BENTON_SANS_CONDENSED_BOLD, "#ec1a38"),
+                        this._statusText = new g(h, k.featuredTextSize + "px " + "Microsoft YaHei", "#ec1a38"),
                             this._statusText.textAlign = g.TEXT_ALIGN_CENTER,
                             this._statusText.y = this._radius + 7,
                             this._container.addChild(this._statusText);
@@ -152,7 +154,7 @@ define(["require", "exports", "./ForceDirectedNode", "lib/easelts/display/Bitmap
                     }
                     if (this._data.featured) {
                         var o = n.getInstance().getString("defaults.featured").toUpperCase();
-                        this._featuredText = new g(o, k.featuredTextSize + "px " + l.BENTON_SANS_CONDENSED_BOLD, "#f6e001"),
+                        this._featuredText = new g(o, k.featuredTextSize + "px " + "Microsoft YaHei", "#f6e001"),
                             this._featuredText.textAlign = g.TEXT_ALIGN_CENTER,
                             this._featuredText.alpha = 0,
                             this._featuredText.y = this._radius + k.articleTextOffset + e.y1 + k.featuredTextOffset,

@@ -43093,7 +43093,7 @@ define("lib/require/text", function() {}
 ),
 define("app/config/GaiaSitemap", ["require", "exports"], function(a, b) {
     var c = {
-        title: "Feels Good to Be You | 7喜® | {page}",
+        title: "乐在7喜中 | 7喜® | {page}",
         config: {
             controllerPath: "app/page/",
             viewModelPath: "app/page/",
@@ -43464,11 +43464,11 @@ define("lib/temple/utils/ShareUtils", ["require", "exports", "lib/temple/utils/t
         }
         ,
         //a.facebookShareUrl = "https://www.facebook.com/sharer/sharer.php?p[url]={url}",
-        a.facebookShareUrl = "http://v.t.sina.com.cn/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url=http://hielf1984.ddns.net:17865",
+        a.facebookShareUrl = "http://v.t.sina.com.cn/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url=http://www.my7up.com.cn",
         // a.twitterShareUrl = "https://twitter.com/intent/tweet?url={url}&text={tweet}",
         a.twitterShareUrl = "weixin.html",
         // a.plusShareUrl = "https://plusone.google.com/_/+1/confirm?hl={language}&url={url}",
-        a.plusShareUrl = "http://v.t.qq.com/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url=http://hielf1984.ddns.net:17865",
+        a.plusShareUrl = "http://v.t.qq.com/share/share.php?title=FEELS \bGOOD \bTO \bBE \bYOU! \b&url=http://www.my7up.com.cn",
         a.linkedinShareUrl = "http://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}&summary={text}",
         a.pinterestShareUrl = "http://pinterest.com/pin/create/button/?url={url}&media={media}&description={text}",
         a
@@ -43653,7 +43653,7 @@ define("app/page/index/IndexController", ["require", "exports", "app/page/Custom
                     this.filters[d].link == c && (a = this.filters[d].pageTitle + " | 7喜®",
                     b = "home/" + this.filters[d].link);
             else
-                a = "Feels Good to Be You | 7喜®",
+                a = "乐在7喜中 | 7喜®",
                 b = "home";
             document.title = a,
             k.trackPage(b)
@@ -43743,7 +43743,7 @@ define("app/page/index/IndexController", ["require", "exports", "app/page/Custom
         ,
         b.prototype.changeLocale = function(a) {
                     if(a=="en-EN"){
-                        window.location.href="http://hielf1984.ddns.net:17865";
+                        window.location.href="http://www.my7up.com.cn";
                         return;
                     }
                     j.inArrayField(i.getInstance().getProperty("locales"), "locale", a) ? (h.getInstance().setLocale(a),
