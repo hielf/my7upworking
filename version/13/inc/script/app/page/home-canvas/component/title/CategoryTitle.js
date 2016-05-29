@@ -43,6 +43,8 @@ define(["require", "exports", "../../../../../lib/easelts/display/Container", ".
             void 0 === a && (a = !1),
             this.visible = !0,
             this.updatePositionProperties(),
+              document.getElementById("prelayer").style.display="block",
+
             a ? (this.applyPositionProperties(),
             this._autoResize = !0) : new TimelineMax({
                 tweens: [TweenMax.to(this._title, 3, {
@@ -56,7 +58,17 @@ define(["require", "exports", "../../../../../lib/easelts/display/Container", ".
                 })],
                 delay: .5,
                 onComplete: function() {
-                    b._autoResize = !0
+                    b._autoResize = !0;
+					 document.getElementById("rotate-logo").classList.add("rotate");
+					 document.getElementById("rotate-logo").addEventListener("webkitAnimationEnd", function(){
+						 document.getElementById("rotate-logo").classList.remove("rotate");
+						 setTimeout(function(){
+							 document.getElementById("rotate-logo").classList.add("rotate");
+
+						 },5000)
+
+					 });
+
                 }
             })
         }

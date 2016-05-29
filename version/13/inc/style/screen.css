@@ -331,7 +331,7 @@ pre,textarea {
     background-position:top center
 }
 .photostack figure figcaption h2 {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-size:16px;
     margin:20px 0 0;
     color:#a7a0a2
@@ -482,7 +482,7 @@ hr,img {
 }
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize*/
 html {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:sans-serif;
     -ms-text-size-adjust:100%;
     -webkit-text-size-adjust:100%;
     font-size:10px;
@@ -655,7 +655,7 @@ td,th {
     box-sizing:border-box
 }
 body {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size:14px;
     line-height:1.428571429;
     color:#333
@@ -4176,7 +4176,7 @@ a.list-group-item-danger.active,a.list-group-item-danger.active:focus,a.list-gro
     filter:alpha(opacity=20)
 }
 .popover,.tooltip {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight:400
 }
 .carousel-caption,.carousel-control {
@@ -5844,7 +5844,7 @@ button.close {
 }
 .component-intro .intro h1 {
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-weight:400;
     font-size:83px;
     font-size:6.91667rem;
@@ -5862,7 +5862,7 @@ button.close {
     -webkit-transform:translate3d(0,0,0);
     transform:translate3d(0,0,0);
     margin:1em 0;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-weight:400;
     font-size:20px;
     font-size:1.66667rem;
@@ -5882,7 +5882,7 @@ button.close {
 }
 .component-intro .intro .summary p {
     margin:0 auto 1.25rem;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-weight:400;
     font-size:18px;
     font-size:1.5rem;
@@ -5943,7 +5943,7 @@ button.close {
 .component-intro .intro .scroll-down .text {
     display:block;
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondmedium;
     font-weight:400;
     font-size:12px;
     color:#fff
@@ -6130,7 +6130,7 @@ button.close {
 }
 .component-gallery .gallery .image-scroller .images .item .overlay .share p {
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-size:14px;
     font-size:1.16667rem;
     font-weight:700;
@@ -6208,7 +6208,7 @@ button.close {
     padding-top:4.58333rem;
     padding-bottom:1.25rem;
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-weight:400;
     font-size:24px;
     font-size:2rem;
@@ -6224,7 +6224,7 @@ button.close {
 .component-gallery .gallery .image-scroller .drag-info .text {
     display:inline-block;
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:din-mediumdin-medium;
     font-size:13px;
     font-size:1.08333rem;
     color:#fff
@@ -6398,7 +6398,7 @@ button.close {
     width:65.83333rem;
     margin:1.25rem auto 2.08333rem;
     text-align:center;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsansthin;
     font-weight:400;
     font-size:46px;
     font-size:3.83333rem;
@@ -6409,7 +6409,7 @@ button.close {
     background-size:auto 100%
 }
 .component-story .question p {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-weight:400;
     font-size:14px;
     line-height:24px;
@@ -6417,7 +6417,7 @@ button.close {
     margin:0 0 2.08333rem
 }
 .component-story .question p.bold {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-weight:400;
     text-transform:uppercase;
     color:#303030
@@ -6434,7 +6434,7 @@ button.close {
 }
 .component-story .question.question-1 h2 span {
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-weight:400;
     font-size:50px;
     line-height:50px;
@@ -6448,13 +6448,13 @@ button.close {
 }
 .component-story .question.question-1 span {
     display:inline-block;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-weight:400;
     font-size:16px;
     color:#666
 }
 .component-story .question.question-1 span.name {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-weight:400;
     color:#18aa4f;
     text-transform:uppercase
@@ -6462,7 +6462,7 @@ button.close {
 .component-story .question.question-1 span.bold {
     text-transform:uppercase;
     color:#303030;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-weight:400
 }
 .component-story .question.question-2,.component-story .question.question-3 {
@@ -6506,7 +6506,7 @@ button.close {
  }
 .component-playlist h2 {
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-weight:400;
     font-size:61px;
     font-size:5.08333rem;
@@ -6600,7 +6600,7 @@ button.close {
     text-align:center
 }
 .component-photos .content h2 {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-size:61px;
     color:#18aa4f;
     margin:0 0 2.91667rem
@@ -6608,7 +6608,7 @@ button.close {
 .component-photos .content p {
     width:535px;
     width:44.58333rem;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-weight:400;
     font-size:16px;
     color:#666;
@@ -6732,7 +6732,7 @@ button.close {
     transform:translateY(-50%) translateZ(0)
 }
 .component-checkOutMore h2 {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-size:61px;
     color:#fff;
     text-align:center;
@@ -6812,10 +6812,10 @@ button.close {
     background-image:url(../image/icons/icn-category-0-active.svg)
 }
 .component-checkOutMore .articles .item .top .image-wrap .category-icon .icon.category_1 {
-    background-image:url(../image/icons/icn-category-1-active2.png)
+    background-image:url(../image/icons/icn-category-1-active.svg)
 }
 .component-checkOutMore .articles .item .top .image-wrap .category-icon .icon.category_2 {
-    background-image:url(../image/icons/icn-category-2-active.png)
+    background-image:url(../image/icons/icn-category-2-active.svg)
 }
 .component-checkOutMore .articles .item .top .image-wrap .curved-text-wrap {
     position:absolute;
@@ -6831,7 +6831,7 @@ button.close {
     -ms-transform:rotate(44deg);
     transform:rotate(44deg);
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-weight:400;
     font-size:11px;
     font-size:.91667rem;
@@ -6853,7 +6853,7 @@ button.close {
     text-align:center
 }
 .component-checkOutMore .articles .item .bottom h2 {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsansbook;
     font-weight:400;
     font-size:17px;
     font-size:1.41667rem;
@@ -6876,7 +6876,7 @@ button.close {
 }
 .component-story-gallery .info h3 {
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-weight:400;
     font-size:26px;
     line-height:26px;
@@ -6889,13 +6889,13 @@ button.close {
     font-weight:400
 }
 .component-story-gallery .info h2 {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-size:61px;
     color:#fff;
     margin:0 0 60px
 }
 .component-story-gallery .info p {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-weight:400;
     font-size:16px;
     color:#fff;
@@ -7035,7 +7035,7 @@ button.close {
     box-sizing:border-box
 }
 .component-secondary-video .info h2 {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-size:61px;
     font-size:5.08333rem;
     line-height:5.08333rem;
@@ -7043,7 +7043,7 @@ button.close {
     margin:0 0 5rem
 }
 .component-secondary-video .info p {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-weight:400;
     font-size:16px;
     font-size:1.33333rem;
@@ -7236,7 +7236,7 @@ button.close {
     margin-left:5%
 }
 .component-article-video .info h2 {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-size:61px;
     font-size:5.08333rem;
     line-height:5.08333rem;
@@ -7244,7 +7244,7 @@ button.close {
     margin:0 0 5rem
 }
 .component-article-video .info p {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-weight:400;
     font-size:16px;
     color:#303030;
@@ -7275,7 +7275,7 @@ button.close {
 .component-article-video .scroll-down .text {
     display:block;
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondmedium;
     font-weight:400;
     font-size:12px;
     color:#18aa4f
@@ -7457,7 +7457,7 @@ button.close {
 }
 .component-article-gallery .info h2 {
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-weight:400;
     font-size:61px;
     line-height:61px;
@@ -7465,7 +7465,7 @@ button.close {
     margin:0 0 60px
 }
 .component-article-gallery .info p {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-weight:400;
     font-size:16px;
     color:#303030;
@@ -7493,7 +7493,7 @@ button.close {
 .component-article-gallery .scroll-down .text {
     display:block;
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondmedium;
     font-weight:400;
     font-size:12px;
     color:#18aa4f
@@ -7578,21 +7578,21 @@ button.close {
     width:80%
 }
 .component-article-text .content .copy-wrap .intro p {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-weight:400;
     font-size:16px;
     color:#303030;
     padding:0
 }
 .component-article-text .content .copy-wrap p {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-weight:400;
     font-size:16px;
     color:#666;
     padding:0 0 0 12.5%
 }
 .component-article-text .content .copy-wrap .quote p {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-weight:400;
     font-size:24px;
     color:#008143;
@@ -7630,7 +7630,7 @@ button.close {
 }
 .component-polaroid .content h2 {
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-weight:400;
     font-size:61px;
     line-height:61px;
@@ -7640,7 +7640,7 @@ button.close {
 .component-polaroid .content p {
     width:535px;
     width:44.58333rem;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-weight:400;
     font-size:16px;
     color:#666;
@@ -7653,7 +7653,7 @@ button.close {
     left:0;
     background:#e0e0e0;
     font-size:16px;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     color:#000;
     padding:5px 10px;
     cursor:pointer
@@ -7754,7 +7754,7 @@ button.close {
 }
 .component-cms-module .sidebar .left .settings .text {
     display:block;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-size:14px;
     margin:5px 0 10px;
     color:#000
@@ -7814,7 +7814,7 @@ button.close {
 }
 .component-cms-module .sidebar .right section .text {
     display:block;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-size:14px;
     margin:5px 0 0;
     color:#000
@@ -7823,7 +7823,7 @@ button.close {
     margin-top:10px
 }
 .component-cms-module .sidebar .right section .btn {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     margin-bottom:5px;
     cursor:pointer
 }
@@ -8429,7 +8429,7 @@ body,html {
 #page-footer .left span.title {
     position:relative;
     z-index:1;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-size:18px;
     text-transform:uppercase;
     color:#fff;
@@ -8549,10 +8549,10 @@ body,html {
     background-image:url(../image/icons/icn-category-0-active.svg)
 }
 #page-footer .left .filters-wrap .filters a.active .filter-wrap-icon .filter-icon.cat-1,#page-footer .left .filters-wrap .filters a.active .filter-wrap-icon .filter-icon.get-inspired {
-    background-image:url(../image/icons/icn-category-1-active2.png)
+    background-image:url(../image/icons/icn-category-1-active.svg)
 }
 #page-footer .left .filters-wrap .filters a.active .filter-wrap-icon .filter-icon.cat-2,#page-footer .left .filters-wrap .filters a.active .filter-wrap-icon .filter-icon.refresh-with-7up {
-    background-image:url(../image/icons/icn-category-2-active2.png)
+    background-image:url(../image/icons/icn-category-2-active.svg)
 }
 #page-footer .left .filters-wrap .filters a.active .text {
     color:#ec1a38
@@ -8587,16 +8587,16 @@ body,html {
     background-image:url(../image/icons/icn-category-0.svg)
 }
 #page-footer .left .filters-wrap .filters a .filter-wrap-icon .filter-icon.cat-1,#page-footer .left .filters-wrap .filters a .filter-wrap-icon .filter-icon.get-inspired {
-    background-image:url(../image/icons/icn-category-1.png)
+    background-image:url(../image/icons/icn-category-1.svg)
 }
 #page-footer .left .filters-wrap .filters a .filter-wrap-icon .filter-icon.cat-2,#page-footer .left .filters-wrap .filters a .filter-wrap-icon .filter-icon.refresh-with-7up {
-    background-image:url(../image/icons/icn-category-2.png)
+    background-image:url(../image/icons/icn-category-2.svg)
 }
 #page-footer .left .filters-wrap .filters a .text {
     float:left;
     display:inline-block;
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondmedium;
     font-size:10px;
     color:#fff;
     margin-top:14px
@@ -8654,7 +8654,7 @@ body,html {
 #page-footer .menu li a {
     display:table-cell;
     height:100%;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-size:12px;
     text-transform:uppercase;
     cursor:pointer
@@ -8727,21 +8727,21 @@ body,html {
 .language-list li.header {
     display:block;
     padding:15px 18px 20px;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-size:12px;
     color:#fff
 }
 .language-list li a {
     display:block;
     padding:0 18px 10px;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-size:12px;
     text-decoration:none;
     color:#fff;
     cursor:pointer
 }
 .language-list li a.active {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold
 }
 html.browser-unsupported #page-footer,html.browser-unsupported #page-header .circle,html.browser-unsupported #page-header .social .social-icon {
     display:none
@@ -8853,7 +8853,7 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
 }
 .view.view-home-html section.filter h3 {
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-weight:400;
     font-size:12px;
     font-size:1rem;
@@ -8959,13 +8959,13 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
     background-image:url(../image/icons/icn-category-1-active.svg)
 }
 .view.view-home-html section.filter ul.filters a .filter-wrap-icon .filter-icon.refresh-with-7up {
-    background-image:url(../image/icons/icn-category-2-active.png)
+    background-image:url(../image/icons/icn-category-2-active.svg)
 }
 .view.view-home-html section.filter ul.filters a .text {
     float:left;
     display:inline-block;
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondmedium;
     font-size:10px;
     font-size:.83333rem;
     color:#fff;
@@ -8995,7 +8995,7 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
 .view.view-home-html .drag-to-explore .text {
     display:inline-block;
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:din-mediumdin-medium;
     font-size:13px;
     color:#fff
 }
@@ -9133,9 +9133,9 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
     float:left;
     display:inline-block;
     text-transform:uppercase;
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
-    font-weight:700;
-    font-size:12px;
+    font-family:bentonsanscondbold;
+    font-weight:400;
+    font-size:10px;
     color:#fff;
     margin:7px 0 0 8px
 }
@@ -9264,7 +9264,7 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
     clear:both
 }
 .view.view-copyright-notification .wrapper .container h1,.view.view-terms-of-use .wrapper .container h1 {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-weight:400;
     font-size:61px;
     color:#18aa4f;
@@ -9288,7 +9288,7 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
     text-decoration:underline
 }
 .view.view-copyright-notification .wrapper .container .col-right h3,.view.view-terms-of-use .wrapper .container .col-right h3 {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-weight:400;
     font-size:14px;
     color:#18aa4f;
@@ -9299,7 +9299,7 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
     margin:0 0 30px
 }
 .view.view-copyright-notification .wrapper .container .col-right a,.view.view-copyright-notification .wrapper .container .col-right ol li,.view.view-copyright-notification .wrapper .container .col-right p,.view.view-copyright-notification .wrapper .container .col-right ul li,.view.view-terms-of-use .wrapper .container .col-right a,.view.view-terms-of-use .wrapper .container .col-right ol li,.view.view-terms-of-use .wrapper .container .col-right p,.view.view-terms-of-use .wrapper .container .col-right ul li {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-weight:400;
     font-size:14px;
     color:#303030;
@@ -9317,7 +9317,7 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
     padding:0
 }
 .view.view-copyright-notification .wrapper .container .col-right ol span,.view.view-terms-of-use .wrapper .container .col-right ol span {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-weight:400;
     font-size:14px;
     color:#18aa4f
@@ -9357,7 +9357,7 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
     box-sizing:border-box
 }
 .view.view-contact .wrapper .container h1 {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondblack;
     font-weight:400;
     font-size:61px;
     color:#18aa4f;
@@ -9376,7 +9376,7 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
     width:30%
 }
 .view.view-contact .wrapper .container .wrap .block h3 {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbold;
     font-weight:400;
     font-size:14px;
     color:#18aa4f;
@@ -9384,14 +9384,14 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
     margin:0
 }
 .view.view-contact .wrapper .container .wrap .block p {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-weight:400;
     font-size:24px;
     color:#303030;
     line-height:24px
 }
 .view.view-contact .wrapper .container .wrap .block p a {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-weight:400;
     font-size:24px;
     color:#18aa4f;
@@ -9403,7 +9403,7 @@ html.browser-unsupported #page-footer,html.browser-unsupported #page-header .cir
     list-style:none
 }
 .view.view-contact .wrapper .container .disclaimer,.view.view-contact .wrapper .container .wrap .block ul li {
-    font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+    font-family:bentonsanscondbook;
     font-weight:400;
     font-size:14px;
     color:#303030;
@@ -10214,7 +10214,7 @@ html.mobile-device .component-story-gallery .carousel .bullets .bullet:hover {
         bottom:156px;
         left:153px;
         text-transform:uppercase;
-        font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+        font-family:bentonsanscondmedium;
         font-weight:400;
         font-size:10px;
         color:#fff;
@@ -10327,7 +10327,7 @@ html.mobile-device .component-story-gallery .carousel .bullets .bullet:hover {
         float:none;
         display:inline-block;
         text-transform:uppercase;
-        font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+        font-family:bentonsanscondmedium;
         font-size:9px;
         margin-top:0
     }
@@ -10366,7 +10366,7 @@ html.mobile-device .component-story-gallery .carousel .bullets .bullet:hover {
     .view.view-home-html section.filter .close .text {
         display:inline-block;
         text-transform:uppercase;
-        font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+        font-family:bentonsanscondmedium;
         font-weight:400;
         font-size:9px;
         color:#fff;
@@ -10444,7 +10444,7 @@ html.mobile-device .component-story-gallery .carousel .bullets .bullet:hover {
         -webkit-transform:translateX(-50%) translateZ(0);
         transform:translateX(-50%) translateZ(0);
         text-transform:uppercase;
-        font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+        font-family:bentonsanscondmedium;
         font-weight:400;
         font-size:10px;
         color:#fff;
@@ -10562,7 +10562,7 @@ html.mobile-device .component-story-gallery .carousel .bullets .bullet:hover {
         float:none;
         display:inline-block;
         text-transform:uppercase;
-        font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+        font-family:bentonsanscondmedium;
         font-size:10px;
         margin-top:5px
     }
@@ -10601,7 +10601,7 @@ html.mobile-device .component-story-gallery .carousel .bullets .bullet:hover {
     .view.view-home-html section.filter .close .text {
         display:inline-block;
         text-transform:uppercase;
-        font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+        font-family:bentonsanscondmedium;
         font-weight:400;
         font-size:10px;
         color:#fff;
@@ -10838,7 +10838,7 @@ html.mobile-device .component-story-gallery .carousel .bullets .bullet:hover {
     }
     .component-intro.component-intro .intro.intro .text-wrap h1 {
         text-transform:uppercase;
-        font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+        font-family:bentonsanscondblack;
         font-weight:400;
         font-size:60px;
         font-size:5rem;
@@ -11371,7 +11371,7 @@ html.mobile-device .component-story-gallery .carousel .bullets .bullet:hover {
         text-align:center
     }
     .component-home-bubbles .articles .item .bottom h2 {
-        font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+        font-family:bentonsansbook;
         font-weight:400;
         font-size:22px;
         font-size:1.83333rem;
@@ -11382,7 +11382,7 @@ html.mobile-device .component-story-gallery .carousel .bullets .bullet:hover {
     }
     .component-home-bubbles .articles .item .bottom .featured-label {
         display:none;
-        font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+        font-family:bentonsanscondblack;
         font-weight:100;
         font-size:12px;
         font-size:1rem;
@@ -11759,4 +11759,50 @@ html.is-mobile .component-article-video .left .video .poster .play-btn:active {
     transform:translate3d(-50%,-50%,0) scale(.9);
     -webkit-transition:none 0ms ease;
     transition:none 0ms ease
+}
+
+#page-header .uplogo{
+	width: 65px;
+    height: 76px;
+    left: 95px;
+    top: 85px;
+	position: absolute;
+    cursor: pointer;
+}
+
+@-webkit-keyframes rotate{
+  0% {
+		transform:rotate(0deg);
+		-webkit-transform:rotate(0deg);
+		-ms-transform:rotate(0deg);
+  }
+  100%{
+		transform:rotate(360deg);
+		-webkit-transform:rotate(360deg);
+		-ms-transform:rotate(360deg);
+  }
+}
+
+@keyframes rotate{
+   0% {
+		transform:rotate(0deg);
+		-webkit-transform:rotate(0deg);
+		-ms-transform:rotate(0deg);
+  }
+  100%{
+		transform:rotate(360deg);
+		-webkit-transform:rotate(360deg);
+		-ms-transform:rotate(360deg);
+  }
+}
+.rotate{
+  -webkit-animation-name: rotate;
+  animation-name: rotate;
+  -webkit-animation-duration: 0.8s;
+  animation-duration: 0.8s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  animation-timing-function: linear;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-timing-function: linear;
 }
