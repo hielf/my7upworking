@@ -2,25 +2,25 @@
     "data": {
         "categoryID": 2,
         "slug": "refresh-with-7up-hombre-mcsteez-animator",
-        "title": "Refresh with 7up - Hombre_McSteez Animator",
+        "title": "翁布勒·麦史蒂斯：动画设计师的顽童世界",
         "smallImage": "/assets/5997fbcd-5cc4-4bb1-86fe-42cd6b9a4048.jpg",
         "featured": false,
-        "next_article_slug": "refresh-with-7up-magda-sayed-urban-knitter",
-        "previous_article_slug": "originals-loux-the-african-fashionista-1",
+        "next_article_slug": "originals-loux-the-african-fashionista-1",
+        "previous_article_slug": "originals-the-dihzahyners-painting-up-beirut",
         "tracking_pixel": "https://pixel.newscred.com/px.gif?key=YXJ0aWNsZT1kZmQ5YmRkMWQ3MmQ5M2IyMjc3ZGVkZTNjNDI3ZDkzMCZwdWJsaXNoZXI9MTg3ODRhZGNmYmFmNDg2MDdiNWUxYzVkOTJhMmJhN2I=",
         "nc_analytics": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n\n\n\n\n\n\n\n\n<!-- Newscred Content Analytics: eyJhcnRpY2xlX2d1aWQiOiJkZmQ5YmRkMWQ3MmQ5M2IyMjc3ZGVkZTNjNDI3ZDkzMCIsImFydGljbGVfdGl0bGUiOiJSZWZyZXNoIHdpdGggN3VwIC0gSG9tYnJlX01jU3RlZXogQW5pbWF0b3IiLCJzb3VyY2VfbmFtZSI6Ijd1cCIsInNvdXJjZV9ndWlkIjoiY2RlYzZkNzAzMTdjYTI3Mjk5ZjM1YzA5NjhiM2Q5YWUiLCJsaWNlbnNlZCI6dHJ1ZSwiY2FtcGFpZ25faWQiOiI1NDkzMDcwMGYxNjAwOTA3NGRlZWI4YjYiLCJjYW1wYWlnbl90aXRsZSI6IjdVUCBHbG9iYWwiLCJhY2NvdW50X2lkIjoiNTQ5MTk5Mjc0MWJkNDkzZjgyOWM0MGQ4In0= -->\n<img src=\"https://pixel.newscred.com/px.gif?key=YXJ0aWNsZT1kZmQ5YmRkMWQ3MmQ5M2IyMjc3ZGVkZTNjNDI3ZDkzMCZwdWJsaXNoZXI9MTg3ODRhZGNmYmFmNDg2MDdiNWUxYzVkOTJhMmJhN2I=\" alt=\"\" height=\"1\" width=\"1\" class=\"nc_pixel\"/>",
         "components": [
             {
                 "componentName": "intro",
-                "title": "HOMBRE_MCSTEEZ ANIMATOR",
-                "introCopy": "\"IT'S BASICALLY, DRAWING, HAVING FUN, MAKING MYSELF LAUGH\"",
+                "title": "翁布勒·麦史蒂斯：动画设计师的顽童世界",
+                "introCopy": "\"动画设计基本上就是专注的绘画、尽情地玩乐和沉醉的自嗨。\"",
                 "headerImage": "/assets/8ef34a26-1b17-4ebd-a9fb-2bd5a96841a9.jpg",
                 "videoID": "00TQe_HqkdY",
                 "type": "video"
             },
             {
                 "componentName": "gallery",
-                "title": "Refresh Your Reality",
+                "title": "另眼看现实",
                 "images": [
                     "/assets/126f273e-7c60-4738-ac33-e1dae9d0a070.png",
                     "/assets/e74f12ca-f8df-4640-b239-0cc846f836f0.png",
@@ -35,8 +35,8 @@
             },
             {
                 "componentName": "secondary-video",
-                "title": "REFRESH YOUR IMAGINATION",
-                "copy": "<p>\"Hombre_McSteez (aka \"\"Marty Cooper\"\") animates cartoons \non clear plastic cels and holds them up to\nthe world to create an augmented reality.\n<br>\nUsing this original animation technique, \nHombre_McSteez turns everyday life into \nan humorous, creature-filled, cartoon universe.\"</p>",
+                "title": "脑洞大开 刷新想象",
+                "copy": "<p>\"翁布勒·麦史蒂斯又名马蒂·库珀，是个喜欢在幻灯片上涂鸦的大顽童。他喜欢将动漫涂鸦作品融入真实的生活场景，制造出别样的笑点。<br>借助这种原创性动画技术，翁布勒·麦史蒂斯得以将日常生活变化成<br>幽默诙谐、妙趣横生的卡通世界。\"</p>",
                 "videoID": "Maji3tnA0Pw"
             },
             {
@@ -54,10 +54,8 @@
             {
                 "componentName": "checkOutMore",
                 "articles": [
-                    "magda-sayeg",
-                    "dong-tuk-tuk-thai-king",
-                    "refresh-london",
-                    "the-dihzahyners-painting-up-beirut"
+                    "refresh-with-7up-a-refreshing-new-look",
+                    "refresh-with-7up-magda-sayed-urban-knitter"
                 ]
             }
         ]

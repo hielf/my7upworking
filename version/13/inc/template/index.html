@@ -28,8 +28,13 @@
                 <li data-bind="css: link">
                     <a href="#" data-bind="
 					tap: function(){
-						$root.changeCategory(link);
-						$root.controller.toggleFilter.bind($root.controller);
+            if(link=='get-inspired'){
+							window.open('http://utc.my7up.com.cn');
+						}else
+            {
+							$root.changeCategory(link);
+							$root.controller.toggleFilter.bind($root.controller);
+						}
 					},
 					css: { 'active': active }">
                         <div class="filter-wrap-icon">
@@ -94,8 +99,8 @@
     <img src="/assets/layer.png" width="600" style="position:fixed;width:600px;left:50%;top:50%;margin-left:-300px;transform: translate(0,-50%); -webkit-transform: translate(0,-50%);" usemap="#Map01" />
     <map name="Map01" id="Map01">
         <area alt="" title="" href='javascript:document.getElementById("prelayer").style.display="none";void(0);'  shape="rect" coords="504,45,569,90" style="outline:none;"   target="_self" />
-  
-        <area alt="" title="" href="http://utc.my7up.com.cn/" shape="poly" coords="435,45,399,63,379,82,349,95,330,111,319,128,290,122,260,116,226,125,200,145,189,166,186,197,169,219,136,236,110,269,107,321,126,358,151,379,184,390,208,412,221,416,240,423,254,438,283,442,305,432,321,405,345,387,375,343,391,330,401,323,422,323,444,328,467,333,492,331,511,324,514,302,511,264,476,251,448,258,431,271,395,282,412,244,420,229,430,211,442,195,448,178,455,159,456,134,453,115,454,101,460,89,463,72,466,63" style="outline:none;" target="_self" />
+
+        <area alt="" title="" href="http://utc.my7up.com.cn/" shape="poly" coords="435,45,399,63,379,82,349,95,330,111,319,128,290,122,260,116,226,125,200,145,189,166,186,197,169,219,136,236,110,269,107,321,126,358,151,379,184,390,208,412,221,416,240,423,254,438,283,442,305,432,321,405,345,387,375,343,391,330,401,323,422,323,444,328,467,333,492,331,511,324,514,302,511,264,476,251,448,258,431,271,395,282,412,244,420,229,430,211,442,195,448,178,455,159,456,134,453,115,454,101,460,89,463,72,466,63" style="outline:none;" target="_blank" />
     </map>
 </div>
 <!-- ko if: configManager.getProperty('authorized') -->
