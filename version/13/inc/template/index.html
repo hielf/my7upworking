@@ -5,7 +5,7 @@
         <div class="social-icon facebook" data-share data-share-type="facebook" data-bind="attr: { 'data-share-url': dataManager.sharePageUrl() }"><span class="icon-facebook"></span></div>
         <div class="social-icon googleplus" data-share data-share-type="plus" data-bind="attr: { 'data-share-url': dataManager.sharePageUrl() }"><span class="icon-googleplus"></span></div>
         <!--<div class="social-icon pinterest" data-share data-share-type="pinterest" data-bind="attr: { 'data-share-url': dataManager.sharePageUrl(), 'data-share-media': dataManager.shareMediaUrl(), 'data-share-text': '#feelsgoodtobeyou' }"><span class="icon-pinterest"></span></div>-->
-		<img class="uplogo " src="./inc/image/7up.png" id="rotate-logo">
+		<img class="uplogo " src="./inc/image/7up.png" id="rotate-logo" data-bind="tap: controller.closePopup.bind(controller)">
 	</div>
     <div class="circle"></div>
 </header>
